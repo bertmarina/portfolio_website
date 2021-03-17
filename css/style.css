@@ -1,0 +1,161 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color:white;
+  font-family: 'Halant', serif;
+}
+
+.navbar {
+  z-index: 1;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 3.2em;
+}
+
+.nav-link {
+  font-size: 1.2em;
+  margin-right: 40px;
+}
+
+.fa-bars {
+  font-size: 1.5em;
+}
+
+a, footer, .navbar-toggler, h1, .arrow, h2 {
+  color: hsl(218, 4%, 40%);
+}
+
+.navbar-dark .nav-item.active .nav-link,
+.navbar-brand,
+.social :hover,
+.fa-bars:hover,
+.navbar-dark .nav-item:hover .nav-link,
+.arrow :hover {
+  color: black;
+}
+
+.social :hover,
+.fa-bars:hover,
+.navbar-dark .nav-item:hover .nav-link,
+.arrow :hover {
+  transition: color .3s;
+}
+
+footer {
+  margin-top: 20px;
+  width: 100%;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+}
+
+.heart {
+  color:hsl(5, 88%, 57%);
+}
+
+.social {
+  font-size: 2em;
+  letter-spacing: 8px;
+}
+
+h6, .social {
+  text-align: center;
+}
+
+h6 {
+  letter-spacing: 3px;
+}
+
+/* .content {
+  display: block;
+  position: fixed;
+  padding: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+} */
+
+main {
+  margin: auto;
+  width: 90%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  letter-spacing: 3px;
+}
+
+img {
+  max-width: 100%;
+  /* background: url(../pictures/worldmap.svg) no-repeat top left;
+  background: url('../pictures/worldmap.svg'); */
+}
+
+.data {
+  display: flex;
+  justify-content: space-around;
+}
+
+.visited {
+  text-align: center;
+  border-bottom: hsl(218, 4%, 40%) 2px dashed;
+  margin: 20px auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.country {
+  max-width: 25%;
+  padding: 20px
+}
+
+.countrypic {
+  border-radius: 3%;
+}
+
+.arrow {
+  text-align: center;
+  font-size: 2em;
+}
+
+@media(max-width: 992px) {
+  .navbar {
+      background-color: white;
+  }
+
+  .country {
+    max-width: 40%;
+  }
+
+  .data {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  .destinations {
+    font-size: 2.7em;
+  }
+}
+
+@media(max-width: 768px) {
+  .country {
+    max-width: 100%;
+  }
+}
+
+@media(min-width:768px) {
+  .country:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s;
+  }
+}
