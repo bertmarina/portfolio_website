@@ -1,6 +1,8 @@
 <title>Marina Bertolini</title>
 
   <meta charset="UTF-8" />
+  <meta name="author" content="Marina Bertolini" />
+  <meta name="dc.language" content="en" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!--makes the website responsive-->
 
@@ -13,8 +15,9 @@
 
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link
-    href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Poppins:wght@300&display=swap&family=Halant:wght@500&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Poppins:wght@300&display=swap&family=Halant:wght@500&family=Londrina+Outline&display=swap"
     rel="stylesheet">
+  <!-- Fonts Google -->
 
   <script src="https://kit.fontawesome.com/00bb8eafce.js" crossorigin="anonymous"></script>
   <!--kit code fontawesome-->
