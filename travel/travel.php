@@ -5,8 +5,8 @@
 
 <?php include '../php templates/head_links.php' ?>
 
-  <meta name="description" content="the homepage of my personal website" />
-  <meta name="keywords" content="homepage, index, presentation, marina, bertolini, marina bertolini, travels" />
+  <meta name="description" content="The list of countries I visited" />
+  <meta name="keywords" content="travel, map, world, marina, bertolini, marina bertolini, pictures" />
 
   <link rel="stylesheet" type="text/css" href="../css/style.css" />
   <!--collegamento a CSS-->
