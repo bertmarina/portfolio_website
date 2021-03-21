@@ -25,7 +25,7 @@ body {
   font-size: 1.5em;
 }
 
-a, footer, .navbar-toggler, h1, .arrow, h2, nav {
+a, footer, .navbar-toggler, h1, .arrow, h2, nav, .gallery {
   color: hsl(218, 4%, 40%);
 }
 
@@ -34,14 +34,14 @@ a, footer, .navbar-toggler, h1, .arrow, h2, nav {
 .social :hover,
 .fa-bars:hover,
 .navbar-dark .nav-item:hover .nav-link,
-.arrow :hover {
+.arrow :hover, .gallery :hover {
   color: black;
 }
 
 .social :hover,
 .fa-bars:hover,
 .navbar-dark .nav-item:hover .nav-link,
-.arrow :hover {
+.arrow :hover, .gallery :hover {
   transition: color .3s;
 }
 
@@ -70,15 +70,10 @@ h6 {
   letter-spacing: 3px;
 }
 
-/* .content {
-  display: block;
-  position: fixed;
-  padding: auto;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.arrow {
   text-align: center;
-} */
+  font-size: 2em;
+}
 
 main {
   margin: auto;
@@ -93,8 +88,6 @@ h1 {
 
 img {
   max-width: 100%;
-  /* background: url(../pictures/worldmap.svg) no-repeat top left;
-  background: url('../pictures/worldmap.svg'); */
 }
 
 .data {
@@ -123,9 +116,36 @@ img {
   border-radius: 3%;
 }
 
-.arrow {
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/spain.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: auto;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+.country_name {
+  color: white;
+  font-family: 'Halant', serif;
+  font-size: 5em;
+  letter-spacing: 5px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.gallery {
+  text-decoration: none;
+}
+
+.card-title {
   text-align: center;
-  font-size: 2em;
 }
 
 @media(max-width: 992px) {

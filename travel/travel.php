@@ -38,8 +38,8 @@
       </div>
     </div>
     <div class="cards">
-      <a href="austria.html" class="country"><img class="countrypic" src="/travel/pics-countries/austria.jpg" alt=""></a>
-      <a href="balkans.html" class="country"><img class="countrypic" src="/travel/pics-countries/balkans.jpg" alt=""></a>
+      <a href="austria.php" class="country"><img class="countrypic" src="/travel/pics-countries/austria.jpg" alt=""></a>
+      <a href="balkans.php" class="country"><img class="countrypic" src="/travel/pics-countries/balkans.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/cuba.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/czech republic.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/ethiopia.jpg" alt=""></a>
@@ -52,7 +52,7 @@
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/netherlands.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/panama.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/south korea.jpg" alt=""></a>
-      <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
+      <a href="./spain.php" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/sri lanka.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/turkey.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/uk.jpg" alt=""></a>
