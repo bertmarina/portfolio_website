@@ -153,17 +153,35 @@ img {
   align-items: center;
 }
 
+.gallery:hover h5 {
+  color: white;
+}
+
 h5 {
   font-size: 3em;
-  color: white;
+  color: transparent;
 }
 
 .erasmus {
   background-image: url('../travel/erasmus.jpg');
 }
 
+.erasmus:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/erasmus.jpg');
+}
+
 .andalusia {
   background-image: url('../travel/andalucia.jpg');
+}
+
+.andalusia:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/andalucia.jpg');
+}
+
+.gallery:hover h5,
+.erasmus:hover, .andalusia:hover {
+  transition: color .5s;
+  transition: background-image .5s;
 }
 
 @media(max-width: 992px) {

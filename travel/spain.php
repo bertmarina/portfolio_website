@@ -17,9 +17,25 @@
 
 <?php include '../php templates/nav.php' ?>
 
-  <main>
-   
-  
+<main>
+    <div class="banner">
+      <h1 class="country_name">Spain</h1>
+    </div>
+
+    <div class="travels">
+      <a href="">
+        <section class="erasmus gallery">
+          <h5>Erasmus 2013-2014</h5>
+        </section>
+      </a>
+
+      <a href="">
+        <section class="andalusia gallery">
+          <h5>Andalusia 2019</h5>
+        </section>
+      </a>
+    </div>
+
     <div class="arrow"><a href="#top"><i class="fas fa-arrow-up"></i></a></div>
   </main>
 
