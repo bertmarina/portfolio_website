@@ -23,17 +23,9 @@
     </div>
 
     <div class="travels">
-      <a href="">
-        <section class="erasmus gallery">
-          <h5>Erasmus 2013-2014</h5>
-        </section>
-      </a>
 
-      <a href="">
-        <section class="andalusia gallery">
-          <h5>Andalusia 2019</h5>
-        </section>
-      </a>
+      <a href=""><img src="../travel/erasmus2.jpg" alt="" class="travel"></a>
+      <a href=""><img src="../travel/andalusia2.jpg" alt="" class="travel"></a>
     </div>
 
     <div class="arrow"><a href="#top"><i class="fas fa-arrow-up"></i></a></div>
