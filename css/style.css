@@ -110,10 +110,10 @@ img {
 
 .country {
   max-width: 25%;
-  padding: 20px
+  padding: 20px;
 }
 
-.countrypic, .travel {
+.countrypic, .travel img {
   border-radius: 3%;
 }
 
@@ -139,49 +139,13 @@ img {
 .travels {
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
   flex-wrap: wrap; 
-  margin: 20px auto;
 }
 
-/* .gallery {
-  height: 400px;
-  width: 600px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.travel {
+  max-width: 30%;
+  padding: 20px;
 }
-
-.gallery:hover h5 {
-  color: white;
-}
-
-h5 {
-  font-size: 3em;
-  color: transparent;
-}
-
-.erasmus {
-  background-image: url('../travel/erasmus.jpg');
-}
-
-.erasmus:hover {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/erasmus.jpg');
-}
-
-.andalusia {
-  background-image: url('../travel/andalucia.jpg');
-}
-
-.andalusia:hover {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/andalucia.jpg');
-}
-
-.gallery:hover h5,
-.erasmus:hover, .andalusia:hover {
-  transition: color .5s;
-  transition: background-image .5s;
-} */
 
 @media(max-width: 992px) {
   .navbar {
