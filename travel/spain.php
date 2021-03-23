@@ -23,9 +23,8 @@
     </div>
 
     <div class="travels">
-
-      <a href=""><img src="../travel/erasmus2.jpg" alt="" class="travel"></a>
-      <a href=""><img src="../travel/andalusia2.jpg" alt="" class="travel"></a>
+      <a href="" class="travel"><img src="./erasmus.jpg" alt=""></a>
+      <a href="" class="travel"><img src="./andalusia.jpg" alt=""></a>
     </div>
 
     <div class="arrow"><a href="#top"><i class="fas fa-arrow-up"></i></a></div>
