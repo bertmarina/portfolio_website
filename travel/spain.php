@@ -11,6 +11,9 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css" />
   <!--collegamento a CSS-->
 
+  <script src="/js/app.js" defer></script>
+  <!-- Collapsible gallery -->
+
 </head>
 
 <body>
