@@ -171,16 +171,18 @@ p {
 .content {
   display: none;
   overflow: hidden;
-  border:hsl(5, 88%, 57%) solid 3px;
+  margin-top: 20px;
+  border: hsl(218, 4%, 40%) solid 1px;
 }
 
 .itinerary {
-  margin: 0 auto;
-  max-width: 60%;
+  margin-right: 10px;
+  max-width: 55%;
   border: hsl(218, 4%, 40%) solid 1px;
-  display: block;
+  float: left;
+  /* display: block;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 10px; */
 }
 
 .break {
