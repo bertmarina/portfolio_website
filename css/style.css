@@ -172,6 +172,7 @@ p {
   display: none;
   overflow: hidden;
   margin: 20px auto;
+  width: 80%;
 }
 
 .gallery {
@@ -179,10 +180,14 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  gap: 3px;
 }
 
-.gallery a {
-  max-width: 10%;
+.gallery div {
+  height: 11vh;
+  max-height: 100%;
+  max-width: 12%;
+  overflow: hidden;
 }
 
 .itinerary {
