@@ -8,6 +8,7 @@
           class="fab fa-linkedin-in"></i></a>
       <a href="https://github.com/bertmarina" target="_blank"><i class="fab fa-github-square"></i></a>
       <a href="https://www.pinterest.it/doremina92/_saved/" target="_blank"><i class="fab fa-pinterest-square"></i></a>
+      <a href="https://collectionpostcards.wordpress.com/" target="_blank"><i class="fab fa-wordpress-simple"></i></a>
     </div>
     <h6>Made with <span class="heart">&#x2764</span> - 2021</h6>
   </footer>

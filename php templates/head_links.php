@@ -19,6 +19,11 @@
     rel="stylesheet">
   <!-- Fonts Google -->
 
+  <!-- Link to lightbox style and JS
+  The MIT License (MIT) - Copyright (c) 2015 Lokesh Dhakar -->
+  <link rel="stylesheet" type="text/css" href="../css/lightbox.min.css">
+  <script src="../js/lightbox-plus-jquery.min.js" defer></script>
+
   <script src="https://kit.fontawesome.com/00bb8eafce.js" crossorigin="anonymous"></script>
   <!--kit code fontawesome-->
   <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" />
