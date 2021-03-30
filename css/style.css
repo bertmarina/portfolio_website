@@ -147,6 +147,15 @@ img {
 
 p {
   padding: 20px;
+  text-align: justify;
+}
+
+.intro:first-letter {
+  float: left;
+  font-size: 45px;
+  line-height: 1;
+  font-weight: bold;
+  margin-right: 11px;
 }
 
 .collapsible {
@@ -186,15 +195,26 @@ p {
 .gallery div {
   height: 11vh;
   max-height: 100%;
-  max-width: 12%;
+  max-width: 18%;
   overflow: hidden;
 }
 
-.itinerary {
-  margin-right: 10px;
+.big {
   max-width: 55%;
-  border: hsl(218, 4%, 40%) solid 1px;
+}
+
+.left {
+  margin-right: 10px;
   float: left;
+}
+
+.small {
+  max-width: 35%;
+}
+
+.right {
+  margin-left: 10px;
+  float: right;
 }
 
 .break {
