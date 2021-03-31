@@ -49,7 +49,7 @@
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/india.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/kenya.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/malta.jpg" alt=""></a>
-      <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/netherlands.jpg" alt=""></a>
+      <a href="./netherlands.php" class="country"><img class="countrypic" src="/travel/pics-countries/netherlands.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/panama.jpg" alt=""></a>
       <a href="" class="country"><img class="countrypic" src="/travel/pics-countries/south korea.jpg" alt=""></a>
       <a href="./spain.php" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
