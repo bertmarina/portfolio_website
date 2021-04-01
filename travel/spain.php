@@ -228,221 +228,221 @@
       <button type="button" class="collapsible">Gallery</button>
       <div class="content">
         <div class="gallery">
-          <div><a href="./travel_pics/andalusia_2019/1.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/1.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/1.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/2.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/2.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/2.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/3.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/3.jpg" data-lightbox="andalusia" data-title="Plaza Virgen de los Reyes"><img
                 src="./travel_pics/andalusia_2019/3.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/4.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/4.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/4.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/5.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/5.jpg" data-lightbox="andalusia" data-title="Sevillanas"><img
                 src="./travel_pics/andalusia_2019/5.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/6.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/6.jpg" data-lightbox="andalusia" data-title="Torre del Oro"><img
                 src="./travel_pics/andalusia_2019/6.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/7.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/7.jpg" data-lightbox="andalusia" data-title="Streets of Seville"><img
                 src="./travel_pics/andalusia_2019/7.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/8.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/8.jpg" data-lightbox="andalusia" data-title="Streets of Seville"><img
                 src="./travel_pics/andalusia_2019/8.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/9.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/9.jpg" data-lightbox="andalusia" data-title="Fabrica Real de Tabacos"><img
                 src="./travel_pics/andalusia_2019/9.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/10.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/10.jpg" data-lightbox="andalusia" data-title="Fabrica Real de Tabacos"><img
                 src="./travel_pics/andalusia_2019/10.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/11.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/11.jpg" data-lightbox="andalusia" data-title="General Archive of the Indies"><img
                 src=".l/travel_pics/andalusia_2019/11.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/12.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/12.jpg" data-lightbox="andalusia" data-title="Copy of Giraldillo"><img
                 src="./travel_pics/andalusia_2019/12.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/13.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/13.jpg" data-lightbox="andalusia" data-title="Christopher Columbus' tomb"><img
                 src="./travel_pics/andalusia_2019/13.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/14.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/14.jpg" data-lightbox="andalusia" data-title="View from Giralda"><img
                 src="./travel_pics/andalusia_2019/14.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/15.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/15.jpg" data-lightbox="andalusia" data-title="View from Giralda"><img
                 src="./travel_pics/andalusia_2019/15.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/16.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/16.jpg" data-lightbox="andalusia" data-title="Inside the Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/16.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/17.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/17.jpg" data-lightbox="andalusia" data-title="Inside the Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/17.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/18.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/18.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
                 src="./travel_pics/andalusia_2019/18.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/19.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/19.jpg" data-lightbox="andalusia" data-title="Plaza de Espana"><img
                 src="./travel_pics/andalusia_2019/19.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/20.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/20.jpg" data-lightbox="andalusia" data-title="Plaza de Espana"><img
                 src="./travel_pics/andalusia_2019/20.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/21.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/21.jpg" data-lightbox="andalusia" data-title="Rosina's House"><img
                 src="./travel_pics/andalusia_2019/21.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/22.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/22.jpg" data-lightbox="andalusia" data-title="Susona's House"><img
                 src="./travel_pics/andalusia_2019/22.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/23.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/23.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
                 src="./travel_pics/andalusia_2019/23.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/24.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/24.jpg" data-lightbox="andalusia" data-title="Gardens of the Real Alcazar of Seville"><img
                 src="./travel_pics/andalusia_2019/24.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/25.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/25.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
                 src="./travel_pics/andalusia_2019/25.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/26.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/26.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
                 src="./travel_pics/andalusia_2019/26.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/27.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/27.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
                 src="./travel_pics/andalusia_2019/27.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/28.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/28.jpg" data-lightbox="andalusia" data-title="Flamenco in La Casa de la Memoria"><img
                 src="./travel_pics/andalusia_2019/28.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/29.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/29.jpg" data-lightbox="andalusia" data-title="Street of Triana, Seville"><img
                 src="./travel_pics/andalusia_2019/29.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/30.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/30.jpg" data-lightbox="andalusia" data-title="Triana sign, Seville"><img
                 src="./travel_pics/andalusia_2019/30.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/31.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/31.jpg" data-lightbox="andalusia" data-title="View of Triana, Seville"><img
                 src="./travel_pics/andalusia_2019/31.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/32.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/32.jpg" data-lightbox="andalusia" data-title="Setas de Seville"><img
                 src="./travel_pics/andalusia_2019/32.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/33.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/33.jpg" data-lightbox="andalusia" data-title="Cathedral of Granada"><img
                 src="./travel_pics/andalusia_2019/33.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/34.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/34.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
                 src="./travel_pics/andalusia_2019/34.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/35.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/35.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
                 src="./travel_pics/andalusia_2019/35.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/36.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/36.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
                 src="./travel_pics/andalusia_2019/36.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/37.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/37.jpg" data-lightbox="andalusia" data-title="Outside the Capilla Real of Granada"><img
                 src="./travel_pics/andalusia_2019/37.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/38.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/38.jpg" data-lightbox="andalusia" data-title="Albaycin"><img
                 src="./travel_pics/andalusia_2019/38.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/39.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/39.jpg" data-lightbox="andalusia" data-title="Albaycin"><img
                 src="./travel_pics/andalusia_2019/39.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/40.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/40.jpg" data-lightbox="andalusia" data-title="View of Alhambra from the Albaycin"><img
                 src="./travel_pics/andalusia_2019/40.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/41.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/41.jpg" data-lightbox="andalusia" data-title="View of Granada from Sacromonte"><img
                 src="./travel_pics/andalusia_2019/41.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/42.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/42.jpg" data-lightbox="andalusia" data-title="On top of Sacromonte"><img
                 src="./travel_pics/andalusia_2019/42.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/43.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/43.jpg" data-lightbox="andalusia" data-title="View of Granada from Sacromonte"><img
                 src="./travel_pics/andalusia_2019/43.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/44.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/44.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevada from Sacromonte"><img
                 src="./travel_pics/andalusia_2019/44.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/45.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/45.jpg" data-lightbox="andalusia" data-title="Cuevas in Sacromonte"><img
                 src="./travel_pics/andalusia_2019/45.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/46.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/46.jpg" data-lightbox="andalusia" data-title="Cuevas in Sacromonte"><img
                 src="./travel_pics/andalusia_2019/46.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/47.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/47.jpg" data-lightbox="andalusia" data-title="Plaza Isabel in Granada"><img
                 src="./travel_pics/andalusia_2019/47.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/48.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/48.jpg" data-lightbox="andalusia" data-title="With Timon in the Albaycin with view of Alhambra"><img
                 src="./travel_pics/andalusia_2019/48.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/49.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/49.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevad"><img
                 src="./travel_pics/andalusia_2019/49.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/50.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/50.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
                 src="./travel_pics/andalusia_2019/50.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/51.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/51.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
                 src="./travel_pics/andalusia_2019/51.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/52.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/52.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
                 src="./travel_pics/andalusia_2019/52.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/53.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/53.jpg" data-lightbox="andalusia" data-title="Tapas in Granada"><img
                 src="./travel_pics/andalusia_2019/53.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/54.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/54.jpg" data-lightbox="andalusia" data-title="View of Alhambra at night"><img
                 src="./travel_pics/andalusia_2019/54.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/55.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/55.jpg" data-lightbox="andalusia" data-title="Alcazaba inside Alhambra"><img
                 src="./travel_pics/andalusia_2019/55.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/56.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/56.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
                 src="./travel_pics/andalusia_2019/56.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/57.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/57.jpg" data-lightbox="andalusia" data-title="Alcazaba inside Alhambra"><img
                 src="./travel_pics/andalusia_2019/57.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/58.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/58.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevada from Alhambra"><img
                 src="./travel_pics/andalusia_2019/58.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/59.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/59.jpg" data-lightbox="andalusia" data-title="View of Albaycín and Sacromonte from Alhambra"><img
                 src="./travel_pics/andalusia_2019/59.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/60.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/60.jpg" data-lightbox="andalusia" data-title="Carlos V's Palace in Alhambra"><img
                 src="./travel_pics/andalusia_2019/60.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/61.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/61.jpg" data-lightbox="andalusia" data-title="Carlos V's Palace in Alhambra"><img
                 src="./travel_pics/andalusia_2019/61.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/62.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/62.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/62.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/63.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/63.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/63.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/64.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/64.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/64.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/65.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/65.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/65.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/66.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/66.jpg" data-lightbox="andalusia" data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/66.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/67.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/67.jpg" data-lightbox="andalusia" data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/67.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/68.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/68.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
                 src="./travel_pics/andalusia_2019/68.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/69.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/69.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/69.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/70.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/70.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
                 src="./travel_pics/andalusia_2019/70.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/71.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/71.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
                 src="./travel_pics/andalusia_2019/71.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/72.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/72.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/72.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/73.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/73.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/73.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/74.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/74.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/74.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/75.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/75.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/75.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/76.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/76.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/76.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/77.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/77.jpg" data-lightbox="andalusia" data-title="Guitar Shop in Granada"><img
                 src="./travel_pics/andalusia_2019/77.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/78.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/78.jpg" data-lightbox="andalusia" data-title="Averroe's Statue"><img
                 src="./travel_pics/andalusia_2019/78.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/79.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/79.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
                 src="./travel_pics/andalusia_2019/79.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/80.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/80.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
                 src="./travel_pics/andalusia_2019/80.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/81.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/81.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
                 src="./travel_pics/andalusia_2019/81.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/82.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/82.jpg" data-lightbox="andalusia" data-title="Statues of Christopher Columbus, Reina Isabel and Rey Ferdinando"><img
                 src="./travel_pics/andalusia_2019/82.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/83.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/83.jpg" data-lightbox="andalusia" data-title="View of Cordoba from the Alcázar"><img
                 src="./travel_pics/andalusia_2019/83.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/84.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/84.jpg" data-lightbox="andalusia" data-title="Roman bride in Cordoba"><img
                 src="./travel_pics/andalusia_2019/84.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/85.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/85.jpg" data-lightbox="andalusia" data-title="Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/85.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/86.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/86.jpg" data-lightbox="andalusia" data-title="Bell tower of the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/86.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/87.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/87.jpg" data-lightbox="andalusia" data-title="Salmorejo recipe"><img
                 src="./travel_pics/andalusia_2019/87.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/88.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/88.jpg" data-lightbox="andalusia" data-title="Seneca's Statue"><img
                 src="./travel_pics/andalusia_2019/88.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/89.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/89.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/89.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/90.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/90.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/90.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/91.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/91.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/91.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/92.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/92.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/92.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/93.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/93.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/93.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/94.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/94.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
                 src="./travel_pics/andalusia_2019/94.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/95.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/95.jpg" data-lightbox="andalusia" data-title="Maimonides' Statue"><img
                 src="./travel_pics/andalusia_2019/95.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/96.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/96.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/96.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/97.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/97.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/97.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/98.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/98.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/98.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/99.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/99.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/99.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/100.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/100.jpg" data-lightbox="andalusia" data-title="San Basilio area in Cordoba"><img
                 src="./travel_pics/andalusia_2019/100.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/101.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/101.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
                 src="./travel_pics/andalusia_2019/101.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/102.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/102.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
                 src="./travel_pics/andalusia_2019/102.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/103.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/103.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
                 src="./travel_pics/andalusia_2019/103.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/104.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/104.jpg" data-lightbox="andalusia" data-title="Cathedral of Malaga"><img
                 src="./travel_pics/andalusia_2019/104.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/105.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/105.jpg" data-lightbox="andalusia" data-title="Alcazaba of Malaga"><img
                 src="./travel_pics/andalusia_2019/105.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/106.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/106.jpg" data-lightbox="andalusia" data-title="Castillo de Gibralfaro in Malaga"><img
                 src="./travel_pics/andalusia_2019/106.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/107.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/107.jpg" data-lightbox="andalusia" data-title="View of Malaga from the Castillo of Gibralfaro"><img
                 src="./travel_pics/andalusia_2019/107.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/108.jpg" data-lightbox="andalusia" data-title=""><img
+          <div><a href="./travel_pics/andalusia_2019/108.jpg" data-lightbox="andalusia" data-title="Castillo de Gibralfaro in Malaga"><img
                 src="./travel_pics/andalusia_2019/108.jpg" alt=""></a></div>
 
         </div>
