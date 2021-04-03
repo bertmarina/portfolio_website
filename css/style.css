@@ -119,7 +119,7 @@ img {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/spain.jpg');
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/spain.jpg'); */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -143,6 +143,10 @@ img {
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
+}
+
+.travel {
+  max-width: 40%;
 }
 
 p {
@@ -251,8 +255,15 @@ p {
     flex-wrap: wrap;
   }
 
-  .gallery a {
-    max-width: 40%;
+  .gallery div {
+    height: 11vh;
+    max-height: 100%;
+    max-width: 45%;
+    overflow: hidden;
+  }
+
+  .big, .small, .left, .right {
+    max-width: 100%;
   }
   
 }

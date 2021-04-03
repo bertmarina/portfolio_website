@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css" />
   <!--collegamento a CSS-->
 
-  <script src="../js/app.js" defer></script>
+  <script src="../js/collapse.js" defer></script>
   <!-- Collapsible gallery -->
 
 </head>
@@ -22,8 +22,8 @@
   <?php include '../php templates/nav.php' ?>
 
   <main>
-    <div class="banner">
-      <h1 class="country_name">Spain</h1>
+    <div class="banner" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/cuba.jpg');">
+      <h1 class="country_name">Cuba</h1>
     </div>
 
     <div class="travels">
@@ -51,9 +51,12 @@
       <button type="button" class="collapsible">Gallery</button>
       <div class="content">
         <div class="gallery">
-          <div><a href="./travel_pics/balkan_2013/1.JPG" data-lightbox="balkan2" data-title=""><img
-                src="./travel_pics/balkan_2013/1.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba/1.JPG" data-lightbox="balkan2" data-title=""><img
+                src="./travel_pics/cuba/1.JPG" alt=""></a></div>
         </div>
+      </div>
+      <button type="button" class="collapsible">Travel story</button>
+      <div class="content">
       </div>
     </div>
 

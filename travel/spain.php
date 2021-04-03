@@ -3,25 +3,26 @@
 
 <head>
 
-<?php include '../php templates/head_links.php' ?>
+  <?php include '../php templates/head_links.php' ?>
 
   <meta name="description" content="my spanish travels" />
-  <meta name="keywords" content="marina, bertolini, marina bertolini, travels, spain, photos, pictures, travel pictures" />
+  <meta name="keywords"
+    content="marina, bertolini, marina bertolini, travels, spain, photos, pictures, travel pictures" />
 
   <link rel="stylesheet" type="text/css" href="../css/style.css" />
   <!--collegamento a CSS-->
 
-  <script src="../js/app.js" defer></script>
+  <script src="../js/collapse.js" defer></script>
   <!-- Collapsible gallery -->
 
 </head>
 
 <body>
 
-<?php include '../php templates/nav.php' ?>
+  <?php include '../php templates/nav.php' ?>
 
-<main>
-    <div class="banner">
+  <main>
+  <div class="banner" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/spain.jpg');">
       <h1 class="country_name">Spain</h1>
     </div>
 
@@ -43,13 +44,13 @@
       <div class="content">
         <div class="gallery">
           <div><a href="./travel_pics/erasmus_2013/1.JPG" data-lightbox="erasmus"
-              data-title="Bell tower 'Miquelete' of the Valencia Cathedral"><img
-                src="./travel_pics/erasmus_2013/1.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/2.JPG" data-lightbox="erasmus" 
-              data-title="Cathedral of Valencia"><img
-                src="./travel_pics/erasmus_2013/2.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/3.JPG" data-lightbox="erasmus" data-title="Miquelete' of the Valencia Cathedral"><img
-                src="./travel_pics/erasmus_2013/3.JPG" alt=""></a></div>
+              data-title="Bell tower 'Miquelete' of the Valencia Cathedral"><img src="./travel_pics/erasmus_2013/1.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/2.JPG" data-lightbox="erasmus"
+              data-title="Cathedral of Valencia"><img src="./travel_pics/erasmus_2013/2.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/3.JPG" data-lightbox="erasmus"
+              data-title="Miquelete' of the Valencia Cathedral"><img src="./travel_pics/erasmus_2013/3.JPG" alt=""></a>
+          </div>
           <div><a href="./travel_pics/erasmus_2013/4.JPG" data-lightbox="erasmus" data-title="The Penon of Ifach"><img
                 src="./travel_pics/erasmus_2013/4.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/5.JPG" data-lightbox="erasmus" data-title="The Penon of Ifach"><img
@@ -62,24 +63,25 @@
                 src="./travel_pics/erasmus_2013/8.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/9.JPG" data-lightbox="erasmus" data-title="Alicante"><img
                 src="./travel_pics/erasmus_2013/9.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/10.JPG" data-lightbox="erasmus" data-title="With Silvia and Kawtar at llaollao"><img
-                src="./travel_pics/erasmus_2013/10.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/10.JPG" data-lightbox="erasmus"
+              data-title="With Silvia and Kawtar at llaollao"><img src="./travel_pics/erasmus_2013/10.JPG" alt=""></a>
+          </div>
           <div><a href="./travel_pics/erasmus_2013/11.JPG" data-lightbox="erasmus" data-title="Pans for paella"><img
                 src="./travel_pics/erasmus_2013/11.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/12.JPG" data-lightbox="erasmus" data-title="Main market of Valencia"><img
-                src="./travel_pics/erasmus_2013/12.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/13.JPG" data-lightbox="erasmus" data-title="The Plaza Redonda, Valencia"><img
-                src="./travel_pics/erasmus_2013/13.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/12.JPG" data-lightbox="erasmus"
+              data-title="Main market of Valencia"><img src="./travel_pics/erasmus_2013/12.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/13.JPG" data-lightbox="erasmus"
+              data-title="The Plaza Redonda, Valencia"><img src="./travel_pics/erasmus_2013/13.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/14.JPG" data-lightbox="erasmus" data-title="Albufera, Valencia"><img
                 src="./travel_pics/erasmus_2013/14.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/15.JPG" data-lightbox="erasmus" data-title="Albufera, Valencia"><img
                 src="./travel_pics/erasmus_2013/15.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/16.JPG" data-lightbox="erasmus" data-title="Albufera, Valencia"><img
                 src="./travel_pics/erasmus_2013/16.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/17.JPG" data-lightbox="erasmus" data-title="Daytrip to a National Park"><img
-                src="./travel_pics/erasmus_2013/17.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/18.JPG" data-lightbox="erasmus" data-title="Daytrip to a National Park"><img
-                src="./travel_pics/erasmus_2013/18.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/17.JPG" data-lightbox="erasmus"
+              data-title="Daytrip to a National Park"><img src="./travel_pics/erasmus_2013/17.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/18.JPG" data-lightbox="erasmus"
+              data-title="Daytrip to a National Park"><img src="./travel_pics/erasmus_2013/18.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/19.JPG" data-lightbox="erasmus" data-title="Cuenca"><img
                 src="./travel_pics/erasmus_2013/19.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/20.JPG" data-lightbox="erasmus" data-title="Cathedral of Cuenca"><img
@@ -91,7 +93,7 @@
           <div><a href="./travel_pics/erasmus_2013/23.JPG" data-lightbox="erasmus" data-title="Peniscola"><img
                 src="./travel_pics/erasmus_2013/23.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/24.JPG" data-lightbox="erasmus" data-title="Peniscola"><img
-                src="./travel_pics/erasmus_2013/24.JPGg" alt=""></a></div>
+                src="./travel_pics/erasmus_2013/24.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/25.JPG" data-lightbox="erasmus" data-title="Peniscola"><img
                 src="./travel_pics/erasmus_2013/25.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/26.JPG" data-lightbox="erasmus" data-title="Peniscola"><img
@@ -102,28 +104,36 @@
                 src="./travel_pics/erasmus_2013/28.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/29.JPG" data-lightbox="erasmus" data-title="Cabanyal, Valencia"><img
                 src="./travel_pics/erasmus_2013/29.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/30.JPG" data-lightbox="erasmus" data-title="Super almuerzo at Bodega La Pascuala"><img
-                src="./travel_pics/erasmus_2013/30.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/31.JPG" data-lightbox="erasmus" data-title="Group photo on the beach"><img
-                src="./travel_pics/erasmus_2013/31.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/30.JPG" data-lightbox="erasmus"
+              data-title="Super almuerzo at Bodega La Pascuala"><img src="./travel_pics/erasmus_2013/30.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/erasmus_2013/31.JPG" data-lightbox="erasmus"
+              data-title="Group photo on the beach"><img src="./travel_pics/erasmus_2013/31.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/32.JPG" data-lightbox="erasmus" data-title="Market in Valencia"><img
                 src="./travel_pics/erasmus_2013/32.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/33.JPG" data-lightbox="erasmus" data-title="Lonja de la seda, Valencia"><img
-                src="./travel_pics/erasmus_2013/33.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/34.JPG" data-lightbox="erasmus" data-title="Capital of the Lonja de la seda, Valencia"><img
-                src="./travel_pics/erasmus_2013/34.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/35.JPG" data-lightbox="erasmus" data-title="Capital of the Lonja de la seda, Valencia"><img
-                src="./travel_pics/erasmus_2013/35.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/36.JPG" data-lightbox="erasmus" data-title="Cathedral of Valencia with bell tower"><img
-                src="./travel_pics/erasmus_2013/36.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/37.JPG" data-lightbox="erasmus" data-title="The Ciudad de las Artes y las Ciencias"><img
-                src="./travel_pics/erasmus_2013/37.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/38.JPG" data-lightbox="erasmus" data-title="The Ciudad de las Artes y las Ciencias"><img
-                src="./travel_pics/erasmus_2013/38.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/39.JPG" data-lightbox="erasmus" data-title="The Ciudad de las Artes y las Ciencias"><img
-                src="./travel_pics/erasmus_2013/39.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/40.JPG" data-lightbox="erasmus" data-title="The Ciudad de las Artes y las Ciencias"><img
-                src="./travel_pics/erasmus_2013/40.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/33.JPG" data-lightbox="erasmus"
+              data-title="Lonja de la seda, Valencia"><img src="./travel_pics/erasmus_2013/33.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/34.JPG" data-lightbox="erasmus"
+              data-title="Capital of the Lonja de la seda, Valencia"><img src="./travel_pics/erasmus_2013/34.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/35.JPG" data-lightbox="erasmus"
+              data-title="Capital of the Lonja de la seda, Valencia"><img src="./travel_pics/erasmus_2013/35.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/36.JPG" data-lightbox="erasmus"
+              data-title="Cathedral of Valencia with bell tower"><img src="./travel_pics/erasmus_2013/36.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/37.JPG" data-lightbox="erasmus"
+              data-title="The Ciudad de las Artes y las Ciencias"><img src="./travel_pics/erasmus_2013/37.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/38.JPG" data-lightbox="erasmus"
+              data-title="The Ciudad de las Artes y las Ciencias"><img src="./travel_pics/erasmus_2013/38.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/39.JPG" data-lightbox="erasmus"
+              data-title="The Ciudad de las Artes y las Ciencias"><img src="./travel_pics/erasmus_2013/39.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/40.JPG" data-lightbox="erasmus"
+              data-title="The Ciudad de las Artes y las Ciencias"><img src="./travel_pics/erasmus_2013/40.JPG"
+                alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/41.JPG" data-lightbox="erasmus" data-title="Castle of Sagunto"><img
                 src="./travel_pics/erasmus_2013/41.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/42.JPG" data-lightbox="erasmus" data-title="Castle of Sagunto"><img
@@ -136,76 +146,84 @@
                 src="./travel_pics/erasmus_2013/45.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/46.JPG" data-lightbox="erasmus" data-title="In Barcelona"><img
                 src="./travel_pics/erasmus_2013/46.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/47.JPG" data-lightbox="erasmus" data-title="Christopher Columbus's statue in Barcelona"><img
-                src="./travel_pics/erasmus_2013/47.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/47.JPG" data-lightbox="erasmus"
+              data-title="Christopher Columbus's statue in Barcelona"><img src="./travel_pics/erasmus_2013/47.JPG"
+                alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/48.JPG" data-lightbox="erasmus" data-title="In Barcelona"><img
                 src="./travel_pics/erasmus_2013/48.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/49.JPG" data-lightbox="erasmus" data-title="Santa Maria del Mar, Barcelona"><img
-                src="./travel_pics/erasmus_2013/49.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/49.JPG" data-lightbox="erasmus"
+              data-title="Santa Maria del Mar, Barcelona"><img src="./travel_pics/erasmus_2013/49.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/50.JPG" data-lightbox="erasmus" data-title="Barcelona Cathedral"><img
                 src="./travel_pics/erasmus_2013/50.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/51.JPG" data-lightbox="erasmus" data-title="Barcelona"><img
                 src="./travel_pics/erasmus_2013/51.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/52.JPG" data-lightbox="erasmus" data-title="Casa Batlló, Barcelona"><img
-                src="./travel_pics/erasmus_2013/52.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/53.JPG" data-lightbox="erasmus" data-title="Casa Batlló, Barcelona"><img
-                src="./travel_pics/erasmus_2013/53.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/52.JPG" data-lightbox="erasmus"
+              data-title="Casa Batlló, Barcelona"><img src="./travel_pics/erasmus_2013/52.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/53.JPG" data-lightbox="erasmus"
+              data-title="Casa Batlló, Barcelona"><img src="./travel_pics/erasmus_2013/53.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/54.JPG" data-lightbox="erasmus" data-title="Casa Milà, Barcelon"><img
                 src="./travel_pics/erasmus_2013/54.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/55.JPG" data-lightbox="erasmus" data-title="The Sagrada Familia, Barcelona"><img
-                src="./travel_pics/erasmus_2013/55.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/55.JPG" data-lightbox="erasmus"
+              data-title="The Sagrada Familia, Barcelona"><img src="./travel_pics/erasmus_2013/55.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/56.JPG" data-lightbox="erasmus" data-title="Barcelona"><img
                 src="./travel_pics/erasmus_2013/56.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/57.JPG" data-lightbox="erasmus" data-title="Parc Guell, Barcelona"><img
-                src="./travel_pics/erasmus_2013/57.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/57.JPG" data-lightbox="erasmus"
+              data-title="Parc Guell, Barcelona"><img src="./travel_pics/erasmus_2013/57.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/58.JPG" data-lightbox="erasmus" data-title="Xativa"><img
                 src="./travel_pics/erasmus_2013/58.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/59.JPG" data-lightbox="erasmus" data-title="Xativa"><img
                 src="./travel_pics/erasmus_2013/59.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/60.JPG" data-lightbox="erasmus" data-title="Xativa"><img
                 src="./travel_pics/erasmus_2013/60.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/61.JPG" data-lightbox="erasmus" data-title="On the bell tower of Xativa"><img
-                src="./travel_pics/erasmus_2013/61.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/61.JPG" data-lightbox="erasmus"
+              data-title="On the bell tower of Xativa"><img src="./travel_pics/erasmus_2013/61.JPG" alt=""></a></div>
           <div><a href="./travel_pics/erasmus_2013/62.JPG" data-lightbox="erasmus" data-title="Castle of Xativa"><img
                 src="./travel_pics/erasmus_2013/62.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/63.JPG" data-lightbox="erasmus" data-title="Palacio Real, Madrid"><img
-                src="./travel_pics/erasmus_2013/63.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/64.JPG" data-lightbox="erasmus" data-title="Don Quixote statue in Barcelona"><img
-                src="./travel_pics/erasmus_2013/64.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/65.JPG" data-lightbox="erasmus" data-title="Don Quixote statue in Barcelona"><img
-                src="./travel_pics/erasmus_2013/65.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/66.JPG" data-lightbox="erasmus" data-title="How to dress for a low cost flight after the Erasmus"><img
+          <div><a href="./travel_pics/erasmus_2013/63.JPG" data-lightbox="erasmus"
+              data-title="Palacio Real, Madrid"><img src="./travel_pics/erasmus_2013/63.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/64.JPG" data-lightbox="erasmus"
+              data-title="Don Quixote statue in Barcelona"><img src="./travel_pics/erasmus_2013/64.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/erasmus_2013/65.JPG" data-lightbox="erasmus"
+              data-title="Don Quixote statue in Barcelona"><img src="./travel_pics/erasmus_2013/65.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/erasmus_2013/66.JPG" data-lightbox="erasmus"
+              data-title="How to dress for a low cost flight after the Erasmus"><img
                 src="./travel_pics/erasmus_2013/66.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/67.JPG" data-lightbox="erasmus" data-title="Light for Fallas, Valencia"><img
-                src="./travel_pics/erasmus_2013/67.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/68.JPG" data-lightbox="erasmus" data-title="Falla infantil, Valencia"><img
-                src="./travel_pics/erasmus_2013/68.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/69.JPG" data-lightbox="erasmus" data-title="Falla infantil, Valencia"><img
-                src="./travel_pics/erasmus_2013/69.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/70.JPG" data-lightbox="erasmus" data-title="With a fallera minor, Valencia"><img
-                src="./travel_pics/erasmus_2013/70.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/71.JPG" data-lightbox="erasmus" data-title="Fallera mayor, Valencia"><img
-                src="./travel_pics/erasmus_2013/71.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/72.JPG" data-lightbox="erasmus" data-title="Ofrenda de las flores, Valencia"><img
-                src="./travel_pics/erasmus_2013/72.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/73.JPG" data-lightbox="erasmus" data-title="Falla infantil, Valencia"><img
-                src="./travel_pics/erasmus_2013/73.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/74.JPG" data-lightbox="erasmus" data-title="Calle Sueca, Valencia"><img
-                src="./travel_pics/erasmus_2013/74.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/75.JPG" data-lightbox="erasmus" data-title="Calle Sueca, Valencia"><img
-                src="./travel_pics/erasmus_2013/75.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/76.JPG" data-lightbox="erasmus" data-title="Calle Sueca, Valencia"><img
-                src="./travel_pics/erasmus_2013/76.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/77.JPG" data-lightbox="erasmus" data-title="With a fallera couple, Valencia"><img
-                src="./travel_pics/erasmus_2013/77.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/78.JPG" data-lightbox="erasmus" data-title="Ofrenda de las flores a la Virgen de los desamparados, Valencia"><img
+          <div><a href="./travel_pics/erasmus_2013/67.JPG" data-lightbox="erasmus"
+              data-title="Light for Fallas, Valencia"><img src="./travel_pics/erasmus_2013/67.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/68.JPG" data-lightbox="erasmus"
+              data-title="Falla infantil, Valencia"><img src="./travel_pics/erasmus_2013/68.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/69.JPG" data-lightbox="erasmus"
+              data-title="Falla infantil, Valencia"><img src="./travel_pics/erasmus_2013/69.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/70.JPG" data-lightbox="erasmus"
+              data-title="With a fallera minor, Valencia"><img src="./travel_pics/erasmus_2013/70.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/71.JPG" data-lightbox="erasmus"
+              data-title="Fallera mayor, Valencia"><img src="./travel_pics/erasmus_2013/71.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/72.JPG" data-lightbox="erasmus"
+              data-title="Ofrenda de las flores, Valencia"><img src="./travel_pics/erasmus_2013/72.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/erasmus_2013/73.JPG" data-lightbox="erasmus"
+              data-title="Falla infantil, Valencia"><img src="./travel_pics/erasmus_2013/73.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/74.JPG" data-lightbox="erasmus"
+              data-title="Calle Sueca, Valencia"><img src="./travel_pics/erasmus_2013/74.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/75.JPG" data-lightbox="erasmus"
+              data-title="Calle Sueca, Valencia"><img src="./travel_pics/erasmus_2013/75.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/76.JPG" data-lightbox="erasmus"
+              data-title="Calle Sueca, Valencia"><img src="./travel_pics/erasmus_2013/76.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/77.JPG" data-lightbox="erasmus"
+              data-title="With a fallera couple, Valencia"><img src="./travel_pics/erasmus_2013/77.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/erasmus_2013/78.JPG" data-lightbox="erasmus"
+              data-title="Ofrenda de las flores a la Virgen de los desamparados, Valencia"><img
                 src="./travel_pics/erasmus_2013/78.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/79.JPG" data-lightbox="erasmus" data-title="Crema de las Fallas, Valencia"><img
-                src="./travel_pics/erasmus_2013/79.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/80.JPG" data-lightbox="erasmus" data-title="Crema de las Fallas, Valencia"><img
-                src="./travel_pics/erasmus_2013/80.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/erasmus_2013/81.JPG" data-lightbox="erasmus" data-title="Virgen de los desamparados, Valencia"><img
-                src="./travel_pics/erasmus_2013/81.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/79.JPG" data-lightbox="erasmus"
+              data-title="Crema de las Fallas, Valencia"><img src="./travel_pics/erasmus_2013/79.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/80.JPG" data-lightbox="erasmus"
+              data-title="Crema de las Fallas, Valencia"><img src="./travel_pics/erasmus_2013/80.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/erasmus_2013/81.JPG" data-lightbox="erasmus"
+              data-title="Virgen de los desamparados, Valencia"><img src="./travel_pics/erasmus_2013/81.JPG" alt=""></a>
+          </div>
         </div>
       </div>
     </div>
@@ -228,42 +246,43 @@
       <button type="button" class="collapsible">Gallery</button>
       <div class="content">
         <div class="gallery">
-          <div><a href="./travel_pics/andalusia_2019/1.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/1.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/2.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/2.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/3.jpg" data-lightbox="andalusia" data-title="Plaza Virgen de los Reyes"><img
-                src="./travel_pics/andalusia_2019/3.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/4.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/4.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/1.jpg" data-lightbox="andalusia"
+              data-title="Seville Cathedral"><img src="./travel_pics/andalusia_2019/1.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/2.jpg" data-lightbox="andalusia"
+              data-title="Seville Cathedral"><img src="./travel_pics/andalusia_2019/2.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/3.jpg" data-lightbox="andalusia"
+              data-title="Plaza Virgen de los Reyes"><img src="./travel_pics/andalusia_2019/3.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/4.jpg" data-lightbox="andalusia"
+              data-title="Seville Cathedral"><img src="./travel_pics/andalusia_2019/4.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/5.jpg" data-lightbox="andalusia" data-title="Sevillanas"><img
                 src="./travel_pics/andalusia_2019/5.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/6.jpg" data-lightbox="andalusia" data-title="Torre del Oro"><img
                 src="./travel_pics/andalusia_2019/6.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/7.jpg" data-lightbox="andalusia" data-title="Streets of Seville"><img
-                src="./travel_pics/andalusia_2019/7.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/8.jpg" data-lightbox="andalusia" data-title="Streets of Seville"><img
-                src="./travel_pics/andalusia_2019/8.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/9.jpg" data-lightbox="andalusia" data-title="Fabrica Real de Tabacos"><img
-                src="./travel_pics/andalusia_2019/9.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/10.jpg" data-lightbox="andalusia" data-title="Fabrica Real de Tabacos"><img
-                src="./travel_pics/andalusia_2019/10.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/11.jpg" data-lightbox="andalusia" data-title="General Archive of the Indies"><img
-                src=".l/travel_pics/andalusia_2019/11.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/12.jpg" data-lightbox="andalusia" data-title="Copy of Giraldillo"><img
-                src="./travel_pics/andalusia_2019/12.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/13.jpg" data-lightbox="andalusia" data-title="Christopher Columbus' tomb"><img
-                src="./travel_pics/andalusia_2019/13.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/14.jpg" data-lightbox="andalusia" data-title="View from Giralda"><img
-                src="./travel_pics/andalusia_2019/14.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/15.jpg" data-lightbox="andalusia" data-title="View from Giralda"><img
-                src="./travel_pics/andalusia_2019/15.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/16.jpg" data-lightbox="andalusia" data-title="Inside the Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/16.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/17.jpg" data-lightbox="andalusia" data-title="Inside the Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/17.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/18.jpg" data-lightbox="andalusia" data-title="Seville Cathedral"><img
-                src="./travel_pics/andalusia_2019/18.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/7.jpg" data-lightbox="andalusia"
+              data-title="Streets of Seville"><img src="./travel_pics/andalusia_2019/7.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/8.jpg" data-lightbox="andalusia"
+              data-title="Streets of Seville"><img src="./travel_pics/andalusia_2019/8.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/9.jpg" data-lightbox="andalusia"
+              data-title="Fabrica Real de Tabacos"><img src="./travel_pics/andalusia_2019/9.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/10.jpg" data-lightbox="andalusia"
+              data-title="Fabrica Real de Tabacos"><img src="./travel_pics/andalusia_2019/10.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/11.jpg" data-lightbox="andalusia"
+              data-title="General Archive of the Indies"><img src=".l/travel_pics/andalusia_2019/11.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/12.jpg" data-lightbox="andalusia"
+              data-title="Copy of Giraldillo"><img src="./travel_pics/andalusia_2019/12.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/13.jpg" data-lightbox="andalusia"
+              data-title="Christopher Columbus' tomb"><img src="./travel_pics/andalusia_2019/13.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/14.jpg" data-lightbox="andalusia"
+              data-title="View from Giralda"><img src="./travel_pics/andalusia_2019/14.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/15.jpg" data-lightbox="andalusia"
+              data-title="View from Giralda"><img src="./travel_pics/andalusia_2019/15.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/16.jpg" data-lightbox="andalusia"
+              data-title="Inside the Seville Cathedral"><img src="./travel_pics/andalusia_2019/16.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/17.jpg" data-lightbox="andalusia"
+              data-title="Inside the Seville Cathedral"><img src="./travel_pics/andalusia_2019/17.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/18.jpg" data-lightbox="andalusia"
+              data-title="Seville Cathedral"><img src="./travel_pics/andalusia_2019/18.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/19.jpg" data-lightbox="andalusia" data-title="Plaza de Espana"><img
                 src="./travel_pics/andalusia_2019/19.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/20.jpg" data-lightbox="andalusia" data-title="Plaza de Espana"><img
@@ -272,104 +291,124 @@
                 src="./travel_pics/andalusia_2019/21.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/22.jpg" data-lightbox="andalusia" data-title="Susona's House"><img
                 src="./travel_pics/andalusia_2019/22.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/23.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
-                src="./travel_pics/andalusia_2019/23.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/24.jpg" data-lightbox="andalusia" data-title="Gardens of the Real Alcazar of Seville"><img
-                src="./travel_pics/andalusia_2019/24.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/25.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
-                src="./travel_pics/andalusia_2019/25.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/26.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
-                src="./travel_pics/andalusia_2019/26.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/27.jpg" data-lightbox="andalusia" data-title="Real Alcazar of Seville"><img
-                src="./travel_pics/andalusia_2019/27.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/28.jpg" data-lightbox="andalusia" data-title="Flamenco in La Casa de la Memoria"><img
-                src="./travel_pics/andalusia_2019/28.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/29.jpg" data-lightbox="andalusia" data-title="Street of Triana, Seville"><img
-                src="./travel_pics/andalusia_2019/29.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/30.jpg" data-lightbox="andalusia" data-title="Triana sign, Seville"><img
-                src="./travel_pics/andalusia_2019/30.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/31.jpg" data-lightbox="andalusia" data-title="View of Triana, Seville"><img
-                src="./travel_pics/andalusia_2019/31.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/32.jpg" data-lightbox="andalusia" data-title="Setas de Seville"><img
-                src="./travel_pics/andalusia_2019/32.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/33.jpg" data-lightbox="andalusia" data-title="Cathedral of Granada"><img
-                src="./travel_pics/andalusia_2019/33.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/34.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
-                src="./travel_pics/andalusia_2019/34.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/35.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
-                src="./travel_pics/andalusia_2019/35.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/36.jpg" data-lightbox="andalusia" data-title="Inside the Cathedral of Granada"><img
-                src="./travel_pics/andalusia_2019/36.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/37.jpg" data-lightbox="andalusia" data-title="Outside the Capilla Real of Granada"><img
-                src="./travel_pics/andalusia_2019/37.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/23.jpg" data-lightbox="andalusia"
+              data-title="Real Alcazar of Seville"><img src="./travel_pics/andalusia_2019/23.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/24.jpg" data-lightbox="andalusia"
+              data-title="Gardens of the Real Alcazar of Seville"><img src="./travel_pics/andalusia_2019/24.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/25.jpg" data-lightbox="andalusia"
+              data-title="Real Alcazar of Seville"><img src="./travel_pics/andalusia_2019/25.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/26.jpg" data-lightbox="andalusia"
+              data-title="Real Alcazar of Seville"><img src="./travel_pics/andalusia_2019/26.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/27.jpg" data-lightbox="andalusia"
+              data-title="Real Alcazar of Seville"><img src="./travel_pics/andalusia_2019/27.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/28.jpg" data-lightbox="andalusia"
+              data-title="Flamenco in La Casa de la Memoria"><img src="./travel_pics/andalusia_2019/28.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/29.jpg" data-lightbox="andalusia"
+              data-title="Street of Triana, Seville"><img src="./travel_pics/andalusia_2019/29.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/30.jpg" data-lightbox="andalusia"
+              data-title="Triana sign, Seville"><img src="./travel_pics/andalusia_2019/30.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/31.jpg" data-lightbox="andalusia"
+              data-title="View of Triana, Seville"><img src="./travel_pics/andalusia_2019/31.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/32.jpg" data-lightbox="andalusia"
+              data-title="Setas de Seville"><img src="./travel_pics/andalusia_2019/32.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/33.jpg" data-lightbox="andalusia"
+              data-title="Cathedral of Granada"><img src="./travel_pics/andalusia_2019/33.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/34.jpg" data-lightbox="andalusia"
+              data-title="Inside the Cathedral of Granada"><img src="./travel_pics/andalusia_2019/34.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/35.jpg" data-lightbox="andalusia"
+              data-title="Inside the Cathedral of Granada"><img src="./travel_pics/andalusia_2019/35.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/36.jpg" data-lightbox="andalusia"
+              data-title="Inside the Cathedral of Granada"><img src="./travel_pics/andalusia_2019/36.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/37.jpg" data-lightbox="andalusia"
+              data-title="Outside the Capilla Real of Granada"><img src="./travel_pics/andalusia_2019/37.jpg"
+                alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/38.jpg" data-lightbox="andalusia" data-title="Albaycin"><img
                 src="./travel_pics/andalusia_2019/38.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/39.jpg" data-lightbox="andalusia" data-title="Albaycin"><img
                 src="./travel_pics/andalusia_2019/39.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/40.jpg" data-lightbox="andalusia" data-title="View of Alhambra from the Albaycin"><img
-                src="./travel_pics/andalusia_2019/40.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/41.jpg" data-lightbox="andalusia" data-title="View of Granada from Sacromonte"><img
-                src="./travel_pics/andalusia_2019/41.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/42.jpg" data-lightbox="andalusia" data-title="On top of Sacromonte"><img
-                src="./travel_pics/andalusia_2019/42.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/43.jpg" data-lightbox="andalusia" data-title="View of Granada from Sacromonte"><img
-                src="./travel_pics/andalusia_2019/43.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/44.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevada from Sacromonte"><img
-                src="./travel_pics/andalusia_2019/44.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/45.jpg" data-lightbox="andalusia" data-title="Cuevas in Sacromonte"><img
-                src="./travel_pics/andalusia_2019/45.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/46.jpg" data-lightbox="andalusia" data-title="Cuevas in Sacromonte"><img
-                src="./travel_pics/andalusia_2019/46.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/47.jpg" data-lightbox="andalusia" data-title="Plaza Isabel in Granada"><img
-                src="./travel_pics/andalusia_2019/47.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/48.jpg" data-lightbox="andalusia" data-title="With Timon in the Albaycin with view of Alhambra"><img
+          <div><a href="./travel_pics/andalusia_2019/40.jpg" data-lightbox="andalusia"
+              data-title="View of Alhambra from the Albaycin"><img src="./travel_pics/andalusia_2019/40.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/41.jpg" data-lightbox="andalusia"
+              data-title="View of Granada from Sacromonte"><img src="./travel_pics/andalusia_2019/41.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/42.jpg" data-lightbox="andalusia"
+              data-title="On top of Sacromonte"><img src="./travel_pics/andalusia_2019/42.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/43.jpg" data-lightbox="andalusia"
+              data-title="View of Granada from Sacromonte"><img src="./travel_pics/andalusia_2019/43.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/44.jpg" data-lightbox="andalusia"
+              data-title="View of Sierra Nevada from Sacromonte"><img src="./travel_pics/andalusia_2019/44.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/45.jpg" data-lightbox="andalusia"
+              data-title="Cuevas in Sacromonte"><img src="./travel_pics/andalusia_2019/45.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/46.jpg" data-lightbox="andalusia"
+              data-title="Cuevas in Sacromonte"><img src="./travel_pics/andalusia_2019/46.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/47.jpg" data-lightbox="andalusia"
+              data-title="Plaza Isabel in Granada"><img src="./travel_pics/andalusia_2019/47.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/48.jpg" data-lightbox="andalusia"
+              data-title="With Timon in the Albaycin with view of Alhambra"><img
                 src="./travel_pics/andalusia_2019/48.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/49.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevad"><img
-                src="./travel_pics/andalusia_2019/49.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/50.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
-                src="./travel_pics/andalusia_2019/50.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/51.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
-                src="./travel_pics/andalusia_2019/51.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/52.jpg" data-lightbox="andalusia" data-title="Street Art in Granada"><img
-                src="./travel_pics/andalusia_2019/52.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/53.jpg" data-lightbox="andalusia" data-title="Tapas in Granada"><img
-                src="./travel_pics/andalusia_2019/53.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/54.jpg" data-lightbox="andalusia" data-title="View of Alhambra at night"><img
-                src="./travel_pics/andalusia_2019/54.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/55.jpg" data-lightbox="andalusia" data-title="Alcazaba inside Alhambra"><img
-                src="./travel_pics/andalusia_2019/55.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/56.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
-                src="./travel_pics/andalusia_2019/56.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/57.jpg" data-lightbox="andalusia" data-title="Alcazaba inside Alhambra"><img
-                src="./travel_pics/andalusia_2019/57.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/58.jpg" data-lightbox="andalusia" data-title="View of Sierra Nevada from Alhambra"><img
-                src="./travel_pics/andalusia_2019/58.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/59.jpg" data-lightbox="andalusia" data-title="View of Albaycín and Sacromonte from Alhambra"><img
-                src="./travel_pics/andalusia_2019/59.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/60.jpg" data-lightbox="andalusia" data-title="Carlos V's Palace in Alhambra"><img
-                src="./travel_pics/andalusia_2019/60.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/61.jpg" data-lightbox="andalusia" data-title="Carlos V's Palace in Alhambra"><img
-                src="./travel_pics/andalusia_2019/61.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/62.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/62.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/63.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/63.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/64.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/64.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/65.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/65.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/66.jpg" data-lightbox="andalusia" data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/66.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/67.jpg" data-lightbox="andalusia" data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/67.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/68.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
-                src="./travel_pics/andalusia_2019/68.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/69.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/69.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/70.jpg" data-lightbox="andalusia" data-title="View of Albaycin and Sacromonte from Alhambra"><img
-                src="./travel_pics/andalusia_2019/70.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/71.jpg" data-lightbox="andalusia" data-title="Nasrid Palaces in Alhambra"><img
-                src="./travel_pics/andalusia_2019/71.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/49.jpg" data-lightbox="andalusia"
+              data-title="View of Sierra Nevad"><img src="./travel_pics/andalusia_2019/49.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/50.jpg" data-lightbox="andalusia"
+              data-title="Street Art in Granada"><img src="./travel_pics/andalusia_2019/50.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/51.jpg" data-lightbox="andalusia"
+              data-title="Street Art in Granada"><img src="./travel_pics/andalusia_2019/51.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/52.jpg" data-lightbox="andalusia"
+              data-title="Street Art in Granada"><img src="./travel_pics/andalusia_2019/52.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/53.jpg" data-lightbox="andalusia"
+              data-title="Tapas in Granada"><img src="./travel_pics/andalusia_2019/53.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/54.jpg" data-lightbox="andalusia"
+              data-title="View of Alhambra at night"><img src="./travel_pics/andalusia_2019/54.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/55.jpg" data-lightbox="andalusia"
+              data-title="Alcazaba inside Alhambra"><img src="./travel_pics/andalusia_2019/55.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/56.jpg" data-lightbox="andalusia"
+              data-title="View of Albaycin and Sacromonte from Alhambra"><img src="./travel_pics/andalusia_2019/56.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/57.jpg" data-lightbox="andalusia"
+              data-title="Alcazaba inside Alhambra"><img src="./travel_pics/andalusia_2019/57.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/58.jpg" data-lightbox="andalusia"
+              data-title="View of Sierra Nevada from Alhambra"><img src="./travel_pics/andalusia_2019/58.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/59.jpg" data-lightbox="andalusia"
+              data-title="View of Albaycín and Sacromonte from Alhambra"><img src="./travel_pics/andalusia_2019/59.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/60.jpg" data-lightbox="andalusia"
+              data-title="Carlos V's Palace in Alhambra"><img src="./travel_pics/andalusia_2019/60.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/61.jpg" data-lightbox="andalusia"
+              data-title="Carlos V's Palace in Alhambra"><img src="./travel_pics/andalusia_2019/61.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/62.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/62.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/63.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/63.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/64.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/64.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/65.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/65.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/66.jpg" data-lightbox="andalusia"
+              data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/66.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/67.jpg" data-lightbox="andalusia"
+              data-title="Lions Patio inside Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/67.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/68.jpg" data-lightbox="andalusia"
+              data-title="View of Albaycin and Sacromonte from Alhambra"><img src="./travel_pics/andalusia_2019/68.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/69.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/69.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/70.jpg" data-lightbox="andalusia"
+              data-title="View of Albaycin and Sacromonte from Alhambra"><img src="./travel_pics/andalusia_2019/70.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/71.jpg" data-lightbox="andalusia"
+              data-title="Nasrid Palaces in Alhambra"><img src="./travel_pics/andalusia_2019/71.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/72.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/72.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/73.jpg" data-lightbox="andalusia" data-title="Generalife"><img
@@ -380,44 +419,53 @@
                 src="./travel_pics/andalusia_2019/75.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/76.jpg" data-lightbox="andalusia" data-title="Generalife"><img
                 src="./travel_pics/andalusia_2019/76.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/77.jpg" data-lightbox="andalusia" data-title="Guitar Shop in Granada"><img
-                src="./travel_pics/andalusia_2019/77.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/78.jpg" data-lightbox="andalusia" data-title="Averroe's Statue"><img
-                src="./travel_pics/andalusia_2019/78.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/79.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
-                src="./travel_pics/andalusia_2019/79.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/80.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
-                src="./travel_pics/andalusia_2019/80.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/81.jpg" data-lightbox="andalusia" data-title="Alcazar of Cordoba"><img
-                src="./travel_pics/andalusia_2019/81.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/82.jpg" data-lightbox="andalusia" data-title="Statues of Christopher Columbus, Reina Isabel and Rey Ferdinando"><img
+          <div><a href="./travel_pics/andalusia_2019/77.jpg" data-lightbox="andalusia"
+              data-title="Guitar Shop in Granada"><img src="./travel_pics/andalusia_2019/77.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/78.jpg" data-lightbox="andalusia"
+              data-title="Averroe's Statue"><img src="./travel_pics/andalusia_2019/78.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/79.jpg" data-lightbox="andalusia"
+              data-title="Alcazar of Cordoba"><img src="./travel_pics/andalusia_2019/79.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/80.jpg" data-lightbox="andalusia"
+              data-title="Alcazar of Cordoba"><img src="./travel_pics/andalusia_2019/80.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/81.jpg" data-lightbox="andalusia"
+              data-title="Alcazar of Cordoba"><img src="./travel_pics/andalusia_2019/81.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/82.jpg" data-lightbox="andalusia"
+              data-title="Statues of Christopher Columbus, Reina Isabel and Rey Ferdinando"><img
                 src="./travel_pics/andalusia_2019/82.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/83.jpg" data-lightbox="andalusia" data-title="View of Cordoba from the Alcázar"><img
-                src="./travel_pics/andalusia_2019/83.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/84.jpg" data-lightbox="andalusia" data-title="Roman bride in Cordoba"><img
-                src="./travel_pics/andalusia_2019/84.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/85.jpg" data-lightbox="andalusia" data-title="Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/85.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/86.jpg" data-lightbox="andalusia" data-title="Bell tower of the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/86.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/87.jpg" data-lightbox="andalusia" data-title="Salmorejo recipe"><img
-                src="./travel_pics/andalusia_2019/87.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/83.jpg" data-lightbox="andalusia"
+              data-title="View of Cordoba from the Alcázar"><img src="./travel_pics/andalusia_2019/83.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/84.jpg" data-lightbox="andalusia"
+              data-title="Roman bride in Cordoba"><img src="./travel_pics/andalusia_2019/84.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/85.jpg" data-lightbox="andalusia"
+              data-title="Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/85.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/86.jpg" data-lightbox="andalusia"
+              data-title="Bell tower of the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/86.jpg"
+                alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/87.jpg" data-lightbox="andalusia"
+              data-title="Salmorejo recipe"><img src="./travel_pics/andalusia_2019/87.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/88.jpg" data-lightbox="andalusia" data-title="Seneca's Statue"><img
                 src="./travel_pics/andalusia_2019/88.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/89.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/89.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/90.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/90.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/91.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/91.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/92.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/92.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/93.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/93.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/94.jpg" data-lightbox="andalusia" data-title="Inside the Mezquita of Cordoba"><img
-                src="./travel_pics/andalusia_2019/94.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/95.jpg" data-lightbox="andalusia" data-title="Maimonides' Statue"><img
-                src="./travel_pics/andalusia_2019/95.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/89.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/89.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/90.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/90.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/91.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/91.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/92.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/92.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/93.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/93.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/94.jpg" data-lightbox="andalusia"
+              data-title="Inside the Mezquita of Cordoba"><img src="./travel_pics/andalusia_2019/94.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/95.jpg" data-lightbox="andalusia"
+              data-title="Maimonides' Statue"><img src="./travel_pics/andalusia_2019/95.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/96.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/96.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/97.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
@@ -426,24 +474,27 @@
                 src="./travel_pics/andalusia_2019/98.jpg" alt=""></a></div>
           <div><a href="./travel_pics/andalusia_2019/99.jpg" data-lightbox="andalusia" data-title="Medina Azahara"><img
                 src="./travel_pics/andalusia_2019/99.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/100.jpg" data-lightbox="andalusia" data-title="San Basilio area in Cordoba"><img
-                src="./travel_pics/andalusia_2019/100.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/101.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
-                src="./travel_pics/andalusia_2019/101.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/102.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
-                src="./travel_pics/andalusia_2019/102.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/103.jpg" data-lightbox="andalusia" data-title="Patio in Cordoba"><img
-                src="./travel_pics/andalusia_2019/103.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/104.jpg" data-lightbox="andalusia" data-title="Cathedral of Malaga"><img
-                src="./travel_pics/andalusia_2019/104.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/105.jpg" data-lightbox="andalusia" data-title="Alcazaba of Malaga"><img
-                src="./travel_pics/andalusia_2019/105.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/106.jpg" data-lightbox="andalusia" data-title="Castillo de Gibralfaro in Malaga"><img
-                src="./travel_pics/andalusia_2019/106.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/107.jpg" data-lightbox="andalusia" data-title="View of Malaga from the Castillo of Gibralfaro"><img
+          <div><a href="./travel_pics/andalusia_2019/100.jpg" data-lightbox="andalusia"
+              data-title="San Basilio area in Cordoba"><img src="./travel_pics/andalusia_2019/100.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/101.jpg" data-lightbox="andalusia"
+              data-title="Patio in Cordoba"><img src="./travel_pics/andalusia_2019/101.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/102.jpg" data-lightbox="andalusia"
+              data-title="Patio in Cordoba"><img src="./travel_pics/andalusia_2019/102.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/103.jpg" data-lightbox="andalusia"
+              data-title="Patio in Cordoba"><img src="./travel_pics/andalusia_2019/103.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/104.jpg" data-lightbox="andalusia"
+              data-title="Cathedral of Malaga"><img src="./travel_pics/andalusia_2019/104.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/105.jpg" data-lightbox="andalusia"
+              data-title="Alcazaba of Malaga"><img src="./travel_pics/andalusia_2019/105.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/106.jpg" data-lightbox="andalusia"
+              data-title="Castillo de Gibralfaro in Malaga"><img src="./travel_pics/andalusia_2019/106.jpg" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/andalusia_2019/107.jpg" data-lightbox="andalusia"
+              data-title="View of Malaga from the Castillo of Gibralfaro"><img
                 src="./travel_pics/andalusia_2019/107.jpg" alt=""></a></div>
-          <div><a href="./travel_pics/andalusia_2019/108.jpg" data-lightbox="andalusia" data-title="Castillo de Gibralfaro in Malaga"><img
-                src="./travel_pics/andalusia_2019/108.jpg" alt=""></a></div>
+          <div><a href="./travel_pics/andalusia_2019/108.jpg" data-lightbox="andalusia"
+              data-title="Castillo de Gibralfaro in Malaga"><img src="./travel_pics/andalusia_2019/108.jpg" alt=""></a>
+          </div>
 
         </div>
       </div>
@@ -689,7 +740,7 @@
 
   <?php include '../php templates/footer.php' ?>
 
-<?php include '../php templates/bootstrap_script.php' ?>
+  <?php include '../php templates/bootstrap_script.php' ?>
 
 </body>
 

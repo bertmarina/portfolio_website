@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css" />
   <!--collegamento a CSS-->
 
-  <script src="../js/app.js" defer></script>
+  <script src="../js/collapse.js" defer></script>
   <!-- Collapsible gallery -->
 
 </head>
@@ -54,6 +54,9 @@
           <div><a href="./travel_pics/balkan_2013/1.JPG" data-lightbox="balkan2" data-title=""><img
                 src="./travel_pics/balkan_2013/1.JPG" alt=""></a></div>
         </div>
+      </div>
+      <button type="button" class="collapsible">Travel story</button>
+      <div class="content">
       </div>
     </div>
 
