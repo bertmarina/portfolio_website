@@ -311,7 +311,143 @@
         <p>
           <b>Day 11</b> <br>
           <img src="" alt="">
-          
+          Today was pretty intense. We went to the city center of Orchha. As I said, this city was an unexpected
+          surprise. Its history is connected to the <b>Bundela rajput clan</b>, who elected it as their capital in 1531
+          until 1783. Because of this, there are many royal palaces and cenotaphs that is possible to visit.
+          What surprised me the most was that inside these palaces there are still very well preserved and beautiful
+          frescoes. Just imagine immense palaces decorated in every corner! Unfortunately, as often in India, there is
+          no care for this heritage and everything is more or less abandoned. It is also true that this is my European
+          point of view talking and in Asia there is not the same concept of conservation they have there. And in some
+          regards, the abandonment gives to this place an additional charm.
+          We found a guide that walked us around talking in a terrible English. The result is that we learned almost
+          nothing and we had to work on imagination. After three hours, the visit was done and we wandered for a bit in
+          the city. It was full of people and street vendors as everyone was still celebrating Diwali and going in
+          pilgrimage to the <b>Ram Raja Temple</b>. As the name says, this temple is dedicated to god Rama and,
+          especially in Diwali, the pilgrims are many. We then sat in a bar to relax a bit and just enjoy the
+          celebrations. It was anyhow not bad when we drove back to the hotel in the afternoon and stayed a bit at the
+          pool. Later we went to another hotel for dinner and then had a final walk in the city and saw all the pilgrims
+          still celebrating and chanting around the temple.
+        </p>
+        <p>
+          <b>Day 12</b> <br>
+          <img src="" alt="">
+          Another day, another early alarm. We drove to <b>Khajuraho</b> and the road was one of the worst we saw so
+          far. We basically jumped every minute, especially me, seating in the back.
+          Arrived in Kajuraho, we left our stuff in the hotel and went to the city with our guide. This city is mostly
+          famous for its temples with <b>erotic sculptures</b> and indeed they were interesting. However, they are not
+          the only representations you see as all the temples are a sort of comic of the time (time being the X and XI
+          centuries). 85 were the temples erected in the area but only 25 survive now and only one is still used as a
+          temple for ceremonies.
+          We first went to visit the occidental group, where the best preserved and beautiful are enclosed in order to
+          take care of them. In truth, they are all very similar to each other, having even the same scenes depicted all
+          around, but seeing all of them at glance is incredible. Some of the erotic scenes are really absurd and the
+          guide even warned us not to try them unless we were yoga pro!
+          <br>After the temples, we went to see the old part of the town as we were waiting for the sunset to attend a
+          puja (prayer). The town was nothing exceptional but I discovered that there is a celebration even for <b>cows
+            poo</b> during Diwali. Poo is burned in front of every house for luck. Maybe we should try, in Switzerland
+          it should not be hard to find some!
+          The puja we attended at sunset was perhaps the most authentic one. It was in the only ancient temple in
+          Khajuraho still active as temple. It is dedicated to Shiva and inside there is a huge lingam (a fallic symbol
+          of Shiva) and the prayer consisted in a long, deafening bell ringing. At the beginning was fastidious but
+          after a while you could feel you were almost going into a trance.
+        </p>
+        <p>
+          <b>Day 13</b> <br>
+          <img src="" alt="">
+          The night was short as we all, except for the coordinator, signed up to go to the <b>Panna Tiger Reserve</b>
+          to see… the leopard! No, kidding, to see the tiger! We were on three different jeeps and mine was super lucky
+          as we saw a tiger soon. She crossed the street and did not even pay attention to us. Moreover, we were the
+          only car there, so we really enjoyed that moment. The safari itself was ok, it is basically designed to see
+          the tiger. However, given the fact that we saw her at the beginning, we then drove to some other areas and saw
+          other animals (lots of spiders!) and panoramas. Once back, we had breakfast and then we went to see other
+          temples in Khajuraho. Early in the afternoon we left with the bus to go to <b>Satna</b> where we said goodbye
+          to our driver and started a new adventure: taking a <b>(night) train</b> in India (to Varanasi).
+          <br>The station in Satna is not super big but it was still quite hard to find our train. First, all the signs
+          were in Hindi. I did not mention it before, but Indians are not very good at speaking English so even asking
+          information was sometimes hard. As the coordinator was not keen in giving us the booking references and our
+          train seemed to have disappeared from every screen, we had to start asking people. Apparently, there is an app
+          they use which is very accurate but not on my phone (probably you need to be Indian to be able to use it).
+          After some, expected, hours of waiting, our train finally arrived. We then had to find our seats (not easy as
+          we did not have the references…) and prepare our comfortable beds. It was not so bad, only the super tall
+          people struggled a bit especially because we kept our baggage on the beds with us, so we had less space left.
+          The beds were ok, and we even had sheets. Also the toilets were ok. We set our alarms and tried to sleep a
+          bit.
+        </p>
+        <p>
+          <b>Day 14</b> <br>
+          <img src="" alt="">
+          The night was ok, we had a bit of sleep but not too much as we were also worried to get down at the right
+          station. The train would continue for another entire day to go who knows where. Some people helped us and some
+          of them were curious about us. I bet it is not very common to see a bunch of western people on a night train
+          as we were, especially on a less used line (the train from Khajuraho was fully booked).
+          In <b>Varanasi</b> we were picked up by a guide that drove us to our hotel. We would have never found it if it
+          was not for him but at least the hotel was in a strategic position just in front of the Gange river.
+          <br>Varanasi is another world. Even after two weeks in India, you are not completely prepared for it. It is
+          humid, it is dirty, it is rotting, it is dead and alive, it is smelly. I thought people were exaggerating in
+          saying not everyone can stand it but now I can say I agree. For me it was a bit shocky at the beginning but
+          then I did not care too much. I just followed the stream, literally. We again left our stuff in the rooms and
+          went out to explore. We walked along the river for a while seeing all the <b>ghats</b> (stairs) where people
+          go to bath, to wash their clothes, to pray and to do all possible daily activities. Of course, we also went to
+          see the burning sites. Varanasi is considered, in fact, the best place where to die and all the Hindus want to
+          have their ashes spread in the sacred river. Who dies here will never reincarnate again and his soul will be
+          free. We saw some temples even if many are inside the houses walls and therefore private. Early in the
+          afternoon we went back to the hotel to rest a bit. Soon, anyway, we had to move to meet our guide to go on the
+          Gange with a boat at sunset. It was nice seeing the city from a little afar. In a way it was refreshing not to
+          be immersed in the crowd and its smell but it was short as we then went to the puja. This time, I did not like
+          it that much as it seemed fake. But maybe the show off and the kitsch is part of the Hinduism rituals and it
+          was more authentic than I thought.
+        </p>
+        <p>
+          <b>Day 15</b> <br>
+          <img src="" alt="">
+          In the morning, we took the boat again and saw the sunrise from there. The shore was already full of people
+          bathing and praying before starting the morning and the pyres were burning as they do at every hour. 5 of us
+          decided then to have a yoga lesson so we went to our guide’s home rooftop where a young Russian now living in
+          India girl taught us for almost two hours. My back after that was hurting so much! But the experience was
+          nice. I mean, when will I experience again yoga in Varanasi?
+          The rest of the day was quiet, I stayed in the hotel while the rest was shopping around a bit and in the
+          afternoon we all went to the airport to fly to New Delhi. The flight was ok but once in Delhi, the pick up bus
+          was not there. After some calls, we found out the guide with the bus was waiting in the wrong place so it was
+          not a major issue and we soon arrived at the hotel.
+        </p>
+        <p>
+          <b>Day 16</b> <br>
+          <img src="" alt="">
+          As our last day in India, this was not a great day. <b>Delhi</b> is ugly, not because there are ugly things
+          but because it is a chaotic metropolis immerse in the smog. It was hard even breathing. In addition to that,
+          the group kind of broke up: the young couple left and went to explore alone and the others were all nervous
+          and tired. I was actually quite interested in seeing something of the city and we also had a bus booked for us
+          all day. In the end, we managed to see just a couple of things.
+          We went to see the <b>Red Fort</b> (what if not a fort to conclude our trip?) but it was hard to enjoy it: the
+          smog was covering it all.
+          Later we went to the <b>Lotus Temple</b> that was the most surprising thing. It is a temple with a lotus
+          flower shape in which all the religions are welcomed and you can pray or meditate. Only five of us went but it
+          was really worthy! It is a pity we did not get to see all the others sights but we were not even in the spirit
+          of enjoying them. We had our last supper next to our hotel. It was good but my stomachache (it started few
+          days before, most probably due to tiredness) did not allow me to enjoy it that much.
+        </p>
+        <b>Day 17</b> <br>
+        <img src="" alt="">
+        This was the day we were leaving and the day we had a real adventure in the airports. We left early but then our
+        flight was delayed of several hours because of the smog. Our reservation was under Turkish Airlines but the
+        flight from Delhi to Istanbul was operated by Indigo, a low cost company. We arrived super late in Istanbul and,
+        even if the gate was still open, the hostesses refused us to get on the plane.
+        At that point some in the groups got super upset. We went to the transfer desk to get new boarding passes and,
+        after 5 hours (!), we got them. We had to speak with several people as Indigo was blaming Turkish and viceversa.
+        In the beginning, they only gave us new tickets that were for flights in 48 hours! The final ones we got were
+        for the next afternoon so we also had to find a place to sleep. Of course no company paid for that.
+        In the desperation of the moment, we were lucky Istanbul airport has a hotel just inside so we did not have to
+        find other, far, places where to go. The hotel was actually very nice and the beds amazing and thankfully they
+        had space for all of us.
+        The day after we were all in a better mood and had breakfast to start the day. We had to fight again with
+        Turkish to get the lunch vouchers but managed to get those, too.
+        Finally, at 4, we left Istanbul to Milan. It may seem it is over if it was not for the six missing suitcases
+        (not mine, thanks Ganesh!) that apparently decided to stay behind.
+        </p>
+        <p>
+          For many reasons, this is a travel I will remember dearly. India is a fascinating place full of contradictions
+          and too easily portrayed. In some moments, I felt like it was enough but now I wish to go back to India and
+          explore it a little more. Hopefully it will happen soon!
         </p>
       </div>
     </div>
