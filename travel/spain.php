@@ -27,7 +27,7 @@
     </div>
 
     <div class="travels">
-      <img class="travel" src="./erasmus.jpg" alt="">
+      <img class="travel" src="./travel_title/erasmus.jpg" alt="">
       <p class="intro">Since when I was in high school I dreamt about going abroad for a while. When I started
         university, I applied for the <b>Erasmus Program</b> and I made it! My destination for one semester would have
         been the beautiful city of <b>Valencia</b>. I immediately fell in love with it because of the perfect weather,
@@ -231,7 +231,7 @@
     <div class="break"></div>
 
     <div class="travels">
-      <img class="travel" src="./andalusia.jpg" alt="">
+      <img class="travel" src="./travel_title/andalusia.jpg" alt="">
       <p class="intro">Spain has a special place in my heart after the Erasmus I did in Valencia back in 2013. However,
         it took a while for me to go back to it. Andalusia was in the top destinations I wanted to visit and it was even
         better than expected. The best time is going in May when the temperatures are not too hot (more or less), and
