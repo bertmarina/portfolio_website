@@ -19,7 +19,7 @@
 
 <body>
 
-  <b?php include '../php templates/nav.php' ?>
+  <?php include '../php templates/nav.php' ?>
 
     <main>
       <div class="banner"

@@ -22,8 +22,9 @@
   <?php include '../php templates/nav.php' ?>
 
   <main>
-    <div class="banner">
-      <h1 class="country_name">Spain</h1>
+    <div class="banner"
+    style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/india.jpg');">
+      <h1 class="country_name">India</h1>
     </div>
 
     <div class="travels">
