@@ -28,25 +28,10 @@
       </div>
 
       <div class="travels">
-        <img class="travel" src="./balkan1.jpg" alt="">
-        <p class="intro"></p>
-      </div>
+        <img class="travel" src="./travel_title/cuba.jpg" alt="">
+        <p class="intro">
 
-      <div class="button-container">
-        <button type="button" class="collapsible">Gallery</button>
-        <div class="content">
-          <div class="gallery">
-            <div><a href="./travel_pics/balkan_2008/1.JPG" data-lightbox="balkan_tour" data-title=""><img
-                  src="./travel_pics/balkan_2008/1.JPG" alt=""></a></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="break"></div>
-
-      <div class="travels">
-        <img class="travel" src="./balkan2.jpg" alt="">
-        <p class="intro"></p>
+        </p>
       </div>
       <div class="button-container">
         <button type="button" class="collapsible">Gallery</button>
@@ -74,7 +59,7 @@
           </p>
           <p>
             <b>Day 1</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba1.jpg" class="big right" alt="">
             We left Milan on the 29th of December. We were supposed to leave on the 28th but there was no flight
             availability, so we had to skip one day. The flight was so looooong and, even if I took the anxiolytics my
             dad
@@ -110,7 +95,7 @@
           </p>
           <p>
             <b>Day 2</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba2.jpg" class="big left" alt="">
             In the morning we had breakfast in the casa particular. It was average but gave us the strengths to start
             the
             day. We discussed few things about the itinerary and then left to explore Habana. We were in <b>Habana
@@ -142,7 +127,7 @@
             nearby
             bar, a car arrived to pick us up. We drove along the <b>Malecón</b>, a long road along the coast, and then
             went back into the city.
-            <img src="" alt="">
+            <img src="./story_images/cuba3.jpg" class="small right" alt="">
             <br>Unfortunately, we did not meet the others when the car stopped, and we started looking for them. We had
             not managed to find Cuban sim cards to buy and so we had to rely on SMS and common sense. It took some hours
             to finally reunite but we made it. We kept exploring Habana Vieja with the four squares, the cathedral, and,
@@ -159,7 +144,7 @@
           </p>
           <p>
             <b>Day 3</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba4.jpg" class="big left" alt="">
             Here we are on the last day of 2019 and with still some adventure before finishing the year. Yes, because we
             had to go super early to the airport to get an internal flight to <b>Baracoa</b>, but the driver took us to
             the wrong terminal. When we realized it, he was already gone and we discovered the terminal we had to go to
@@ -184,7 +169,7 @@
               some
               basics things such as rice, meat, coffee, soap with a discount through a government card. They line up for
               hours and still, what they get is not enough for survival.</i>
-            <img src="" alt="">
+            <img src="./story_images/cuba5.jpg" class="small right" alt="">
             <br>The flight was ok, I even fell asleep and there was no turbulence. We arrived in Baracoa after a couple
             of
             hours and the atmosphere was completely different from the one in Habana. First, we were <b>the only
@@ -207,6 +192,7 @@
             <br>We saw the cathedral, the caves of the <b>Tainos</b> (one of the first populations of the island) and
             then
             walked along the malecón.
+            <img src="./story_images/cuba6.jpg" class="big left" alt="">
             In the afternoon, Leonardo (one of the group) said he wanted to see the hotel of <b>La Rusa</b>, so I walked
             there with him as some people went back to the casa particular and we split up. The hotel itself was
             nothing,
@@ -230,7 +216,6 @@
             the
             power, she became an eminent figure in Baracoa. And then is where her story meets the one of <b>José René
               Frometa</b>, the old man who was telling us the story.
-            <img src="" alt="">
             <br>He was born in a poor family of Baracoa, being one among 27 children. He grew up with his grandmother
             that
             always wanted him to study to improve his social status. Every day, going to the city to school, he was

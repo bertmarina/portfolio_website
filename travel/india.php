@@ -28,25 +28,10 @@
     </div>
 
     <div class="travels">
-      <img class="travel" src="./balkan1.jpg" alt="">
-      <p class="intro"></p>
-    </div>
-
-    <div class="button-container">
-      <button type="button" class="collapsible">Gallery</button>
-      <div class="content">
-        <div class="gallery">
-          <div><a href="./travel_pics/balkan_2008/1.JPG" data-lightbox="balkan_tour" data-title=""><img
-                src="./travel_pics/balkan_2008/1.JPG" alt=""></a></div>
-        </div>
-      </div>
-    </div>
-
-    <div class="break"></div>
-
-    <div class="travels">
-      <img class="travel" src="./balkan2.jpg" alt="">
-      <p class="intro"></p>
+      <img class="travel" src="./travel_title/rajasthan.jpg" alt="">
+      <p class="intro">
+        
+      </p>
     </div>
     <div class="button-container">
       <button type="button" class="collapsible">Gallery</button>
