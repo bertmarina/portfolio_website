@@ -37,8 +37,25 @@
         <button type="button" class="collapsible">Gallery</button>
         <div class="content">
           <div class="gallery">
-            <div><a href="./travel_pics/cuba/1.JPG" data-lightbox="balkan2" data-title=""><img
+            <div><a href="./travel_pics/cuba/1.JPG" data-lightbox="cuba" data-title=""><img
                   src="./travel_pics/cuba/1.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/2.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/2.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/2.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/2.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/3.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/3.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/4.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/4.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/5.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/5.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/6.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/6.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/7.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/7.JPG" alt=""></a></div>
+                  <div><a href="./travel_pics/cuba/8.JPG" data-lightbox="cuba" data-title=""><img
+                  src="./travel_pics/cuba/8.JPG" alt=""></a></div>
+
           </div>
         </div>
         <button type="button" class="collapsible">Travel story</button>
