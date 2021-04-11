@@ -112,9 +112,9 @@
           </p>
           <p>
             <b>Day 2</b> <br>
-            <img src="./story_images/cuba2.jpg" class="big left" alt="">
             In the morning we had breakfast in the casa particular. It was average but gave us the strengths to start
             the
+            <img src="./story_images/cuba2.jpg" class="big left" alt="">
             day. We discussed few things about the itinerary and then left to explore Habana. We were in <b>Habana
               Vieja</b>, so everything was nearby. We started going to see the <b>Capitolio Nacional</b>. It is an
             impressive building started in 1926 by the dictator Machado. At the time, sugar brought much money to Cuba
@@ -131,6 +131,7 @@
             gear,
             but we thought it was something related to the old car. We went to the <b>Barrio Chino</b>, where there are
             no
+            <img src="./story_images/cuba3.jpg" class="small right" alt="">
             Chinese as they all left when the Revolution started, then went to <b>Plaza de la Revolucion</b>, famous for
             the big murals of <b>Che Guevara</b> and <b>Camilo Cienfuegos</b>. We then retook the car and, after a bit,
             the <b>accident</b>. As I mentioned, Rudy was not the best of the drivers, and, trying to stop, he
@@ -144,7 +145,6 @@
             nearby
             bar, a car arrived to pick us up. We drove along the <b>Malecón</b>, a long road along the coast, and then
             went back into the city.
-            <img src="./story_images/cuba3.jpg" class="small right" alt="">
             <br>Unfortunately, we did not meet the others when the car stopped, and we started looking for them. We had
             not managed to find Cuban sim cards to buy and so we had to rely on SMS and common sense. It took some hours
             to finally reunite but we made it. We kept exploring Habana Vieja with the four squares, the cathedral, and,
@@ -161,10 +161,11 @@
           </p>
           <p>
             <b>Day 3</b> <br>
-            <img src="./story_images/cuba4.jpg" class="big left" alt="">
             Here we are on the last day of 2019 and with still some adventure before finishing the year. Yes, because we
             had to go super early to the airport to get an internal flight to <b>Baracoa</b>, but the driver took us to
-            the wrong terminal. When we realized it, he was already gone and we discovered the terminal we had to go to
+            the wrong terminal. 
+            <img src="./story_images/cuba4.jpg" class="big left" alt="">
+            When we realized it, he was already gone and we discovered the terminal we had to go to
             was super far, like half an hour walking in the middle of nowhere. We managed to find two taxis who agreed
             to
             take us there even though in theory they were not allowed. We were 10 with the luggage and the taxi could
@@ -209,7 +210,6 @@
             <br>We saw the cathedral, the caves of the <b>Tainos</b> (one of the first populations of the island) and
             then
             walked along the malecón.
-            <img src="./story_images/cuba6.jpg" class="big left" alt="">
             In the afternoon, Leonardo (one of the group) said he wanted to see the hotel of <b>La Rusa</b>, so I walked
             there with him as some people went back to the casa particular and we split up. The hotel itself was
             nothing,
@@ -228,6 +228,7 @@
             started performing as an opera singer in the main theatres of Europe like the Opera in Paris and La Scala in
             Milan. She arrived in Cuba in 1930 and from there she started managing some businesses in South America
             thanks
+            <img src="./story_images/cuba6.jpg" class="big left" alt="">
             to the banana boom and the hotel that still exists. When the Revolution came to Cuba, she decided to support
             Fidel and his men providing money, food, and shelter and risking her own life. When Fidel eventually took
             the
@@ -262,7 +263,7 @@
           </p>
           <p>
             <b>Day 4</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba7.jpg" class="big right" alt="">
             After a long day and night, here we are in 2020 (maybe it was not the best thing to celebrate, after
             all...)!
             We left in the morning as we had a long transfer ahead. On the itinerary, we were supposed to go to <b>Cayo
@@ -296,7 +297,6 @@
           </p>
           <p>
             <b>Day 5</b> <br>
-            <img src="" alt="">
             Even in the morning, Banes was not exceptional, especially after breakfast with pineapple, bread, butter,
             and
             hair of unknown origin. But it was fun, come on, and we also discovered there was a car parked in the
@@ -314,7 +314,7 @@
           </p>
           <p>
             <b>Day 6</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba9.jpg" class="big right" alt="">
             We left the beaches heading south to <b>Santiago</b>, one of the best cities we have been to. The travel was
             about three hours long and we also had the pleasure to see president Miguel Díaz Canel (well, his car, to be
             precise) and all the cars around him passing by super-fast. The two drivers we had, again to apologize for
@@ -329,7 +329,6 @@
             is always guarded by three soldiers. Besides them, there are also other personalities resting in this
             cemetery: <b>Compay Segundo</b> (you listened to Chan Chan, right? That’s my favorite from the album),
             <b>Emilio Bacardi</b>, and many others.
-            <img src="" alt="">
             <br><i>- In every place you go in Cuba, you won’t see any Castro or Guevara street/square/station and so on.
               On the other side, you will be bombed with Marti’s name everywhere and see many busts. The reason is Jose
               Marti is considered the undisputed <b>father of the nation</b>. From a young age, he promoted the idea of
@@ -353,7 +352,7 @@
             walking and we arrived in the main square. As I stopped to buy some postcards, an old woman approached me
             and
             started talking.
-            <img src="" alt="">
+            <img src="./story_images/cuba10.jpg" class="big left" alt="">
             <br>I discovered her name was Isabel and she was 70ish years old. She really seemed to want to talk about
             her
             story, so she told us about the times she was young, and Cuba was ruled by Batista. As Santiago was the city
@@ -381,7 +380,7 @@
           </p>
           <p>
             <b>Day 7</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba11.jpg" class="big right" alt="">
             The morning after, Barbara was not feeling well so she stayed back while we all decided to go to visit el
             <b>Castillo de San Pedro de la Roca</b>. It took us a bit to contract a car and a sort of open van to take
             us
@@ -400,7 +399,6 @@
             so the fortress became a prison for political prisoners, and it was eventually used for the last time in
             1898
             when the United States fleet attacked the island during the Spanish-American War.
-            <img src="" alt="">
             <br>Once back to Santiago, we arranged with the owner of the casa the next car transfer and housing.
             Everything was really organized day by day thanks to the contacts of the houses and the drivers. That same
             evening we were taking the <b>night bus</b> to <b>Santa Clara</b>, but we still had no car waiting for us
@@ -409,7 +407,9 @@
             with Barbara to the bus station to check the bus status for the night. It is not uncommon that buses are
             delayed and/or canceled. We took a tuk-tuk to go there, so fun! The rest of the group walked to el
             <b>Cuartel
-              Moncada</b>, probably one of the most iconic places of the Revolution and the most famous of Santiago. We
+              Moncada</b>,
+              <img src="./story_images/cuba12.jpg" class="big left" alt="">
+               probably one of the most iconic places of the Revolution and the most famous of Santiago. We
             arrived shortly after them and went inside together to visit it. The yellow building nowadays transformed
             into
             a school and little museum was the second-largest military garrison of the island. On the 26th of July 1953,
@@ -426,7 +426,6 @@
             before. There are some memorabilia and many pictures and panels. Since the guided visit was free, we also
             had
             a woman walking us through everything but it was indeed a must-do in the city.
-            <img src="" alt="">
             <br>Afterward, we went for a drink and I had my first <b>daiquiri</b>, another cocktail invented in Cuba. In
             the end, it is just a mojito with no mint, nothing special. After restoring, we went back to the casa,
             showered, and had dinner before going to the bus station. Everything had to be simple: we just had to go to
@@ -446,7 +445,7 @@
           </p>
           <p>
             <b>Day 8</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba13.jpg" class="small right" alt="">
             The bus ride was long, more than 12 hours, and extremely cold even though we prepared warm clothes in
             advance. We stopped for breakfast around 7 and had one of the most memorable ones with coffee, sandwich, and
             ice cream. Then, we continued our ride until Santa Clara, where we arrived with more than 4 hours of delay.
@@ -466,7 +465,6 @@
             the men of Che. This event, even if not as big as you could think, led to the escape of Batista from the
             island and to the ultimate victory of the revolutionaries. With no guide, the army surrendered, and Fidel
             finally took power.
-            <img src="" alt="">
             <br>As we were already late on the program, we decided to then skip the visit to the city of Remedios and
             drive directly to <b>Trinidad</b>. It was a long transfer, especially with that car, but still scenic as we
             drove along the coast. Arrived in Trinidad, we split between two casas particulares as the one we booked did
@@ -483,7 +481,7 @@
           </p>
           <p>
             <b>Day 9</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba14.jpg" class="big left" alt="">
             After a restoring night and a huge breakfast (breakfasts are quite good in the casas as they usually give
             you coffee, juice of some fruit, bread, butter, jams, cold cuts of mysterious origin, and fruit), we left to
             go exploring the city of Trinidad. It is a beautiful city even if very touristic. It was strange to see so
@@ -499,7 +497,7 @@
             black dolls they keep inside… The priest inside, when we ask to explain something about the religion,
             started saying a lot of bulls**t and we were nodding just in the hope he would have stopped soon but he had
             to say a lot of things, apparently.
-            <img src="" alt="">
+            <img src="./story_images/cuba15.jpg" class="big right" alt="">
             <br>In the afternoon we split up as some people wanted to relax at the beach while others wanted to visit la
             <b>Valle de Los Ingenios</b>. I went with the second group. We rent a car to take us to the panoramic point
             from which we could see all the plain. This area, nowadays Unesco with the city of Trinidad, was inhabited
@@ -523,9 +521,10 @@
           </p>
           <p>
             <b>Day 10</b> <br>
-            <img src="" alt="">
             As planned the evening before, our two cars came to pick us up. The one I went on was indeed the best of all
-            the travel: a <b>Ford of 1935, canary yellow</b>. Like any other car, inside there was some small
+            the travel: a <b>Ford of 1935, canary yellow</b>. 
+            <img src="./story_images/cuba16.jpg" class="big left" alt="">
+            Like any other car, inside there was some small
             modernization like a stereo and a Bluetooth connection. This meant I connected my phone and we listened to
             regueton music all the way to Cienfuegos. How can you even think of something as absurd and yet genius as
             this?
@@ -549,10 +548,11 @@
           </p>
           <p>
             <b>Day 11</b> <br>
-            <img src="" alt="">
             The morning after I was already pissed because we would have not continued all together and I was not really
             in the mood of talking with anybody. We waited for our cars, which were late, and then left Cienfuegos
-            without nostalgia. Our first stop was <b>Museo Giron</b>, close to the <b>Bay of Pigs</b>. Here, in 1961,
+            without nostalgia. 
+            <img src="./story_images/cuba17.jpg" class="big right" alt="">
+            Our first stop was <b>Museo Giron</b>, close to the <b>Bay of Pigs</b>. Here, in 1961,
             there was an attempt organized by the CIA to overcome the dictatorship of Fidel. Many Cubans who escaped in
             the previous years were prepared and given weapons to lead this attack that, on the outside, had to appear
             as something Cuban only. The attack ended up bad for the invaders, who were badly organized, and Fidel won.
@@ -572,10 +572,11 @@
           </p>
           <p>
             <b>Day 12</b> <br>
-            <img src="" alt="">
             This was probably the best day of all the ones spent in Cuba. We woke up a bit early to do the
             <b>horse-riding excursion</b>. It is the most common one as Vinales is famous for the <b>tobacco fields</b>
-            and the only ways to explore it is walking or riding. I had never been on a horse before, except for a pony
+            and the only ways to explore it is walking or riding.
+            <img src="./story_images/cuba18.jpg" class="big left" alt="">
+            I had never been on a horse before, except for a pony
             when I was 9 years old so, even if I was super excited about it, I got a bit scared. However, my horse was
             super calm and peaceful. His name was Caramelo and he had to be second in line. No matter what, if someone
             was trying to pass him, he had to stop him and keep being the second. When the position was secured, he
@@ -595,7 +596,6 @@
             about 6 months. After that time, the leaves are ready to be transformed into cigars. He showed us how to do
             a cigar in 5 minutes. Probably you need to grow up there to be able to do such a thing! The best thing is no
             artificial product is used to create one and the leaves just stick to one another.
-            <img src="" alt="">
             <br>After this demonstration, we took again our horses and kept going. The second stop was for a <b>coffee
               plantation</b>. They showed us the plants, the process of toasting, and then the coffee seeds ready to be
             used. Then they showed us some honey and some Rum. We had a try of everything and then headed back to
@@ -609,7 +609,7 @@
           </p>
           <p>
             <b>Day 13</b> <br>
-            <img src="" alt="">
+            <img src="./story_images/cuba19.jpg" class="big right" alt="">
             This was basically a transfer day. We left around 10 to go to Habana and we arrived around 12.30. we met the
             others and then we split into small groups. I wandered with some in Old Habana with no destination. It was
             nice just being on the Malecon with the only worry of getting a Crystal somewhere. At one point, since it
@@ -627,7 +627,6 @@
           </p>
           <p>
             <b>Day 14</b> <br>
-            <img src="" alt="">
             And then we arrived on the last day of our adventure in Cuba. Thankfully, the flight was in the night, so we
             had time to still do some things in the city. I went with Barbara, Americo, and Valerio to the <b>house of
               Hemingway</b>, a bit out of the city center. Only getting there was an adventure as we took a city bus. In
@@ -640,14 +639,15 @@
             spying into someone’s private life. We were thinking this would have made the visit less interesting, but it
             was a perfect idea as everything is exactly how it was left (well, probably not but it looks like). All the
             windows give the house a sense of light and relax and the wind flowing around made it comfortable even if it
-            was very hot. And there are books everywhere, even in the bathroom they are organized with proper libraries.
+            was very hot. 
+            <img src="./story_images/cuba20.jpg" class="big left" alt="">
+            And there are books everywhere, even in the bathroom they are organized with proper libraries.
             <br>Hemingway was in love with Cuba, even when the relations between Cuba and the US started to deteriorate.
             Besides writing from his house, he was often out fishing on his boat, Pilar, now parked in the garden, next
             to the swimming pool where, it seems, famous divas swam naked. He was also enjoying the parties in Habana
             and his favorite bars were La Bodeguita del Medio and La Floridita, now open to masses of tourists.
             After our visit, we had to find a way to go back. The bus schedule was not clear (not sure there was one at
             all) and so we opted for a taxi. We tried to stop some and then we jumped on what there is called a
-            <img src="" alt="">
             <b>collective taxi</b>. It works almost like a bus, but it is a taxi. You jump on and then you get off at
             your destination. We asked if it was going where we needed to go so we were sure, but the rest of the people
             was just boarding without even checking if the destination was correct. One of the many mysteries of Cuba.

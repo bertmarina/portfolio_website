@@ -30,7 +30,7 @@
     <div class="travels">
       <img class="travel" src="./travel_title/rajasthan.jpg" alt="">
       <p class="intro">
-        
+
       </p>
     </div>
     <div class="button-container">
@@ -44,7 +44,7 @@
       <button type="button" class="collapsible">Travel story</button>
       <div class="content">
         <p>
-          <img src="./story_images/rajasthan_itinerary.jpg" alt="">
+          <img src="./story_images/rajasthan_itinerary.jpg" class="big left" alt="">
           This is the first travel I did to India and it was definitely intense. Every day we had at least 5/7 hours on
           the bus because the distance between each leg was quite big and the roads in India are not even close to what
           we are used here in Europe. As the first bite of this huge country, I chose <b>Rajasthan</b> and I travelled
@@ -77,10 +77,10 @@
         </p>
         <p>
           <b>Day 2</b> <br>
-          <img src="" alt="">
           We arrived in India in the morning completely exhausted. And then a long 7 hours transfer was waiting for us.
           After we met the guy from the agency that had all our hotel reservations and documents, we walked to the bus.
           Our driver was a peculiar guy that spoke close to no English.
+          <img src="./story_images/raja1.jpg" class="big left" alt="">
           Our very first destination was <b>Mandawa</b>, already in the region of Rajasthan. It is quite popular among
           tourists, that stop here to see the famous <b>Havelis</b>. These are houses built by rich merchants starting
           in the XVIII century, when new commercial ways were opened, to show off. The richer the decorations, the
@@ -99,12 +99,12 @@
         </p>
         <p>
           <b>Day 3</b> <br>
-          <img src="" alt="">
           The day after we were more rested and eager to be on the road. Our first stop, not so far from Mandawa, was
           <b>Fatehpur</b>, a city founded in 1451 and full of Havelis. We went to see Le Prince Haveli, a beautiful
           building bought and completely restored by the French artist Nadine Le Prince and turned into a guesthouse for
           artists and a hotel. There we had a guided visit by a French girl who resides there who explained very well
           the haveli history and all the functions it had.
+          <img src="./story_images/raja2.jpg" class="big right" alt="">
           <br>After seeing all these frescoes, we moved to <b>Deshnok</b>, where there is the famous Karni Mata Temple,
           also known as the <b>Temple of Rats</b>. Yes, rats. The story says that, when Karni Mata’s son died, she, as
           the reincarnation of Durga (one of the forms of Devi, the divine mother), brought him back to life and decided
@@ -133,9 +133,10 @@
             the monks usually have just a piece of fabric to cover themselves. –</i>
         </p>
         <p>
+        <img src="./story_images/raja3.jpg" class="small left" alt="">
           <b>Day 4</b> <br>
-          <img src="" alt="">
-          Back on the road the day after, we arrived in <b>Pokhran</b>, a city famous for its fort (we saw maaaany
+          Back on the road the day after, we arrived in <b>Pokhran</b>, 
+          a city famous for its fort (we saw maaaany
           forts). The building itself was beautiful but, as for the others we saw, there was nothing inside nor it was
           easy for us Europeans to completely appreciate it. However, we had an incredible guide that took us around. He
           knew maybe three or four words in Italian but what an entertainer! He took us pictures in the best spots of
@@ -150,7 +151,6 @@
         </p>
         <p>
           <b>Day 5</b> <br>
-          <img src="" alt="">
           We spent all day walking around Jaisalmer. It is a beautiful city with its own charm. From afar, the first
           thing you see is its <b>fort</b>, which seems a huge sand construction even though is quite a solid rock
           building that survived intact for more than 800 years. Jaisalmer was a very important city back in the
@@ -158,6 +158,7 @@
           However, after the wars between India and Pakistan in more recent decades, its power declined until it became
           only a popular destination for tourism. From the terrace of our hotel, you could have an impressive view of
           the fort, where over 3000 people reside, and the surrounding city.
+          <img src="./story_images/raja4.jpg" class="big right" alt="">
           The visit was super interesting, as the guide was very informative and spoke good Italian. Of course, as any
           other guide we had, we had to stop in his shop. And of course, I bought something. I fell in love with a
           cashmere scarf that I plan to use a lot this winter. We visited some Havelis (yes, again) and various Jain
@@ -169,7 +170,6 @@
           completely different story. The dirt, the cows, the dogs, the trash, all the smells are something you are not
           prepared for and it makes you disgusted until something change and everything appears to be in the right
           place. I would say that day 4 was the day my perceptions changed.
-          <img src="" alt="">
           <br>As for the group, we started understanding each other better. I bonded easily with Marco, Jessica, and
           Giulia as they were my age and we have things in common while the “older guys” bonded among them. In that
           sense, we had a sort of crack due to the age gap. It did not bother me so much but sometimes you felt it. An
@@ -185,9 +185,10 @@
         </p>
         <p>
           <b>Day 6</b> <br>
-          <img src="" alt="">
           After two nights in a row in the same hotel and one day with no bus transfer, we were moving again. We first
-          stopped just outside Jaisalmer on the <b>Gadisar lake</b>. In the morning it is very suggestive as there are
+          stopped just outside Jaisalmer on the <b>Gadisar lake</b>. 
+          <img src="./story_images/raja5.jpg" class="small left" alt="">
+          In the morning it is very suggestive as there are
           some pavilions coming out of water. Later, the bus driver stopped close to a madrasa, that we quickly visited,
           and then arrived in <b>Osian</b>. Here we went to a Hindu temple first and then to a Jain temple. This city
           was an important commercial junction dominated by Jains and the Jain temple still preserves a statue of the
@@ -208,9 +209,10 @@
         </p>
         <p>
           <b>Day 7</b> <br>
-          <img src="" alt="">
           This was perhaps the most intense day of all. We did over 350 kilometers and just two stops along the way. The
-          first one was in <b>Ajmer</b>, where there is an important sanctuary dedicated to Khwaja Muinuddin Chishti,
+          first one was in <b>Ajmer</b>,
+          <img src="./story_images/raja6.jpg" class="big right" alt="">
+           where there is an important sanctuary dedicated to Khwaja Muinuddin Chishti,
           the founder of the first Sufi order in India. The place was super overcrowded, and the atmosphere is totally
           different compared to any other Islamic place I have ever visited. Even Islam is lived in a different, Indian,
           way: chaotic, noisy, and colorful. After that, we drove to <b>Pushkar</b>, a famous city for the yearly
@@ -227,9 +229,9 @@
         </p>
         <p>
           <b>Day 8</b> <br>
-          <img src="" alt="">
           In Jaipur, we had another “relax” day with no long transfers. Jaipur is the Rajasthan capital city and one of
           the few cities in India (maybe the only one?) with urban planning.
+          <img src="./story_images/raja7.jpg" class="big left" alt="">
           We met our guide in the morning and we headed first to the <b>Hawa Mahal</b> that we saw only from the
           outside. It is an incredible palace built in 1799 with red stone to allow the women of the court to see the
           life outside. After that, we drove to the <b>Amber Fort</b>, one of the most impressive in Rajasthan. This was
@@ -255,7 +257,6 @@
         </p>
         <p>
           <b>Day 9</b> <br>
-          <img src="" alt="">
           Unfortunately, the day we had to leave our beautiful hotel and the beautiful Jaipur has come and we left with
           <b>Agra</b> as our destination. Along the way, however, we also had two other interesting stops. The first
           was in <b>Abhaneri</b>, where there is an impressive well. I mean, not a well as we imagine it but with stairs
@@ -271,10 +272,10 @@
         </p>
         <p>
           <b>Day 10</b> <br>
-          <img src="" alt="">
           The morning was tough as we woke up at 4.30 to be inside the Taj Mahal complex before sunrise. It was totally
           worth it. In the beginning, when you enter, you only see all the people. Then, you see the mausoleum and it is
           a big emotion. It is nothing different from what we
+          <img src="./story_images/raja8.jpg" class="big right" alt="">
           saw already in pictures, advertising, movies, and books but it is still one of the most beautiful things I
           have ever seen. It is not a case that the poet Tagore described it as a <b>marble tear still on the cheek of
             time</b>.
@@ -296,10 +297,11 @@
         </p>
         <p>
           <b>Day 11</b> <br>
-          <img src="" alt="">
           Today was pretty intense. We went to the city center of Orchha. As I said, this city was an unexpected
           surprise. Its history is connected to the <b>Bundela rajput clan</b>, who elected it as their capital in 1531
-          until 1783. Because of this, there are many royal palaces and cenotaphs that is possible to visit.
+          until 1783. 
+          <img src="./story_images/raja9.jpg" class="big left" alt="">
+          Because of this, there are many royal palaces and cenotaphs that is possible to visit.
           What surprised me the most was that inside these palaces there are still very well preserved and beautiful
           frescoes. Just imagine immense palaces decorated in every corner! Unfortunately, as often in India, there is
           no care for this heritage and everything is more or less abandoned. It is also true that this is my European
@@ -316,9 +318,9 @@
         </p>
         <p>
           <b>Day 12</b> <br>
-          <img src="" alt="">
           Another day, another early alarm. We drove to <b>Khajuraho</b> and the road was one of the worst we saw so
           far. We basically jumped every minute, especially me, seating in the back.
+          <img src="./story_images/raja10.jpg" class="small right" alt="">
           Arrived in Kajuraho, we left our stuff in the hotel and went to the city with our guide. This city is mostly
           famous for its temples with <b>erotic sculptures</b> and indeed they were interesting. However, they are not
           the only representations you see as all the temples are a sort of comic of the time (time being the X and XI
@@ -339,9 +341,9 @@
         </p>
         <p>
           <b>Day 13</b> <br>
-          <img src="" alt="">
           The night was short as we all, except for the coordinator, signed up to go to the <b>Panna Tiger Reserve</b>
           to see… the leopard! No, kidding, to see the tiger! We were on three different jeeps and mine was super lucky
+          <img src="./story_images/raja11.jpg" class="small left" alt="">
           as we saw a tiger soon. She crossed the street and did not even pay attention to us. Moreover, we were the
           only car there, so we really enjoyed that moment. The safari itself was ok, it is basically designed to see
           the tiger. However, given the fact that we saw her at the beginning, we then drove to some other areas and saw
@@ -361,11 +363,11 @@
         </p>
         <p>
           <b>Day 14</b> <br>
-          <img src="" alt="">
           The night was ok, we had a bit of sleep but not too much as we were also worried to get down at the right
           station. The train would continue for another entire day to go who knows where. Some people helped us and some
           of them were curious about us. I bet it is not very common to see a bunch of western people on a night train
           as we were, especially on a less used line (the train from Khajuraho was fully booked).
+          <img src="./story_images/raja12.jpg" class="big right" alt="">
           In <b>Varanasi</b> we were picked up by a guide that drove us to our hotel. We would have never found it if it
           was not for him but at least the hotel was in a strategic position just in front of the Gange river.
           <br>Varanasi is another world. Even after two weeks in India, you are not completely prepared for it. It is
@@ -385,7 +387,6 @@
         </p>
         <p>
           <b>Day 15</b> <br>
-          <img src="" alt="">
           In the morning, we took the boat again and saw the sunrise from there. The shore was already full of people
           bathing and praying before starting the morning and the pyres were burning as they do at every hour. 5 of us
           decided then to have a yoga lesson so we went to our guide’s home rooftop where a young Russian now living in
@@ -398,9 +399,10 @@
         </p>
         <p>
           <b>Day 16</b> <br>
-          <img src="" alt="">
           As our last day in India, this was not a great day. <b>Delhi</b> is ugly, not because there are ugly things
-          but because it is a chaotic metropolis immerse in the smog. It was hard even breathing. In addition to that,
+          but because it is a chaotic metropolis immerse in the smog. 
+          <img src="./story_images/raja13.jpg" class="small left" alt="">
+          It was hard even breathing. In addition to that,
           the group kind of broke up: the young couple left and went to explore alone and the others were all nervous
           and tired. I was actually quite interested in seeing something of the city and we also had a bus booked for us
           all day. In the end, we managed to see just a couple of things.
@@ -413,7 +415,6 @@
           days before, most probably due to tiredness) did not allow me to enjoy it that much.
         </p>
         <b>Day 17</b> <br>
-        <img src="" alt="">
         This was the day we were leaving and the day we had a real adventure in the airports. We left early but then our
         flight was delayed of several hours because of the smog. Our reservation was under Turkish Airlines but the
         flight from Delhi to Istanbul was operated by Indigo, a low cost company. We arrived super late in Istanbul and,
