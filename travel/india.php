@@ -5,7 +5,7 @@
 
   <?php include '../php templates/head_links.php' ?>
 
-  <meta name="description" content="the homepage of my personal website" />
+  <meta name="description"/>
   <meta name="keywords"
     content="marina, bertolini, marina bertolini, travels, balkans, photos, pictures, travel pictures" />
 
@@ -23,22 +23,390 @@
 
   <main>
     <div class="banner"
-    style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/india.jpg');">
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('../travel/banner/india.jpg');">
       <h1 class="country_name">India</h1>
     </div>
 
     <div class="travels">
       <img class="travel" src="./travel_title/rajasthan.jpg" alt="">
       <p class="intro">
-
+        India has always been in my mind a place to go at least once in life and for my first
+        travel there I chose a classic destination: <b>Rajasthan</b>. I did not have any particular expectation about
+        this country but still I was interested
+        in to know why so many people are fascinated by it. <b>I was not disappointed</b> as Rajasthan is a <b>good
+          combination of forts, deserts, spices and temples</b>.
+        The travel was intense because the distances to cover were huge but it didn't impact the beautiful time we got
+        to spend in every city.
       </p>
     </div>
     <div class="button-container">
       <button type="button" class="collapsible">Gallery</button>
       <div class="content">
         <div class="gallery">
-          <div><a href="./travel_pics/balkan_2013/1.JPG" data-lightbox="balkan2" data-title=""><img
-                src="./travel_pics/balkan_2013/1.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/1.JPG" data-lightbox="rajasthan"
+              data-title="Our first hotel, a haveli in Mandawa"><img src="./travel_pics/rajasthan_2019/1.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/2.JPG" data-lightbox="rajasthan"
+              data-title="Our first hotel, a haveli in Mandawa"><img src="./travel_pics/rajasthan_2019/2.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/3.JPG" data-lightbox="rajasthan"
+              data-title="Haveli in Mandawa"><img src="./travel_pics/rajasthan_2019/3.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/4.JPG" data-lightbox="rajasthan" data-title="Mandawa streets"><img
+                src="./travel_pics/rajasthan_2019/4.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/5.JPG" data-lightbox="rajasthan"
+              data-title="Haveli in Mandawa"><img src="./travel_pics/rajasthan_2019/5.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/6.JPG" data-lightbox="rajasthan" data-title="Mandawa"><img
+                src="./travel_pics/rajasthan_2019/6.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/7.JPG" data-lightbox="rajasthan"
+              data-title="Haveli in Mandawa"><img src="./travel_pics/rajasthan_2019/7.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/8.JPG" data-lightbox="rajasthan"
+              data-title="Our first group picture in Mandawa"><img src="./travel_pics/rajasthan_2019/8.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/9.JPG" data-lightbox="rajasthan"
+              data-title="Le Prince Haveli in Fatehpur"><img src="./travel_pics/rajasthan_2019/9.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/10.JPG" data-lightbox="rajasthan"
+              data-title="Le Prince Haveli in Fatehpur"><img src="./travel_pics/rajasthan_2019/10.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/11.JPG" data-lightbox="rajasthan"
+              data-title="Le Prince Haveli in Fatehpur"><img src="./travel_pics/rajasthan_2019/11.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/12.JPG" data-lightbox="rajasthan"
+              data-title="Le Prince Haveli in Fatehpur"><img src="./travel_pics/rajasthan_2019/12.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/13.JPG" data-lightbox="rajasthan"
+              data-title="Karni Mata Temple, Temple of Rats, in Deshnok"><img src="./travel_pics/rajasthan_2019/13.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/14.JPG" data-lightbox="rajasthan"
+              data-title="Karni Mata Temple, Temple of Rats, in Deshnok"><img src="./travel_pics/rajasthan_2019/14.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/15.JPG" data-lightbox="rajasthan"
+              data-title="Karni Mata Temple, Temple of Rats, in Deshnok"><img src="./travel_pics/rajasthan_2019/15.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/16.JPG" data-lightbox="rajasthan" data-title="Bikaner fort"><img
+                src="./travel_pics/rajasthan_2019/16.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/17.JPG" data-lightbox="rajasthan" data-title="Bikaner fort"><img
+                src="./travel_pics/rajasthan_2019/17.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/18.JPG" data-lightbox="rajasthan" data-title="Bikaner fort"><img
+                src="./travel_pics/rajasthan_2019/18.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/19.JPG" data-lightbox="rajasthan"
+              data-title="Fire extinguishers"><img src="./travel_pics/rajasthan_2019/19.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/20.JPG" data-lightbox="rajasthan" data-title="Man in Bikaner"><img
+                src="./travel_pics/rajasthan_2019/20.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/21.JPG" data-lightbox="rajasthan"
+              data-title="Spices market in Bikaner"><img src="./travel_pics/rajasthan_2019/21.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/22.JPG" data-lightbox="rajasthan" data-title="Hindu temple"><img
+                src="./travel_pics/rajasthan_2019/22.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/23.JPG" data-lightbox="rajasthan" data-title="Our bus"><img
+                src="./travel_pics/rajasthan_2019/23.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/24.JPG" data-lightbox="rajasthan" data-title="Pokhran fort"><img
+                src="./travel_pics/rajasthan_2019/24.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/25.JPG" data-lightbox="rajasthan" data-title="Pokhran fort"><img
+                src="./travel_pics/rajasthan_2019/25.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/26.JPG" data-lightbox="rajasthan"
+              data-title="In the Pokhran fort"><img src="./travel_pics/rajasthan_2019/26.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/27.JPG" data-lightbox="rajasthan"
+              data-title="In the Pokhran fort"><img src="./travel_pics/rajasthan_2019/27.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/28.JPG" data-lightbox="rajasthan"
+              data-title="Man in the Pokhran fort"><img src="./travel_pics/rajasthan_2019/28.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/29.JPG" data-lightbox="rajasthan"
+              data-title="Our guide of the Pokhran fort"><img src="./travel_pics/rajasthan_2019/29.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/30.JPG" data-lightbox="rajasthan"
+              data-title="In the Pokhran fort"><img src="./travel_pics/rajasthan_2019/30.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/31.JPG" data-lightbox="rajasthan"
+              data-title="In the Pokhran fort"><img src="./travel_pics/rajasthan_2019/31.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/32.JPG" data-lightbox="rajasthan"
+              data-title="Group picture in the Pokhran fort"><img src="./travel_pics/rajasthan_2019/32.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/33.JPG" data-lightbox="rajasthan" data-title="Pokhran fort"><img
+                src="./travel_pics/rajasthan_2019/33.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/34.JPG" data-lightbox="rajasthan"
+              data-title="With Jessica and Giulia at the Pokhran fort"><img src="./travel_pics/rajasthan_2019/34.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/35.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Bada Bagh"><img src="./travel_pics/rajasthan_2019/35.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/36.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Bada Bagh"><img src="./travel_pics/rajasthan_2019/36.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/37.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Bada Bagh"><img src="./travel_pics/rajasthan_2019/37.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/38.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Bada Bagh"><img src="./travel_pics/rajasthan_2019/38.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/39.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Bada Bagh"><img src="./travel_pics/rajasthan_2019/39.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/40.JPG" data-lightbox="rajasthan" data-title="Jaisalmer"><img
+                src="./travel_pics/rajasthan_2019/40.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/41.JPG" data-lightbox="rajasthan"
+              data-title="Haveli in Jaisalmer"><img src="./travel_pics/rajasthan_2019/41.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/42.JPG" data-lightbox="rajasthan" data-title="Jaisalmer"><img
+                src="./travel_pics/rajasthan_2019/42.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/43.JPG" data-lightbox="rajasthan" data-title="Jaisalmer"><img
+                src="./travel_pics/rajasthan_2019/43.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/44.JPG" data-lightbox="rajasthan" data-title="Jaisalmer"><img
+                src="./travel_pics/rajasthan_2019/44.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/45.JPG" data-lightbox="rajasthan" data-title="Jaisalmer"><img
+                src="./travel_pics/rajasthan_2019/45.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/46.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Jaisalmer"><img src="./travel_pics/rajasthan_2019/46.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/47.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Jaisalmer"><img src="./travel_pics/rajasthan_2019/47.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/48.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Jaisalmer"><img src="./travel_pics/rajasthan_2019/48.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/49.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Jaisalmer"><img src="./travel_pics/rajasthan_2019/49.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/50.JPG" data-lightbox="rajasthan"
+              data-title="Street food in Jaisalmer"><img src="./travel_pics/rajasthan_2019/50.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/51.JPG" data-lightbox="rajasthan"
+              data-title="Haveli in Jaisalmer"><img src="./travel_pics/rajasthan_2019/51.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/52.JPG" data-lightbox="rajasthan" data-title="Gadisar lake"><img
+                src="./travel_pics/rajasthan_2019/52.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/53.JPG" data-lightbox="rajasthan"
+              data-title="Along the Gadisar lake"><img src="./travel_pics/rajasthan_2019/53.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/54.JPG" data-lightbox="rajasthan" data-title="Madrasa"><img
+                src="./travel_pics/rajasthan_2019/54.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/55.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Osian"><img src="./travel_pics/rajasthan_2019/55.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/56.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Osian"><img src="./travel_pics/rajasthan_2019/56.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/57.JPG" data-lightbox="rajasthan" data-title="Jodhpur fort"><img
+                src="./travel_pics/rajasthan_2019/57.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/58.JPG" data-lightbox="rajasthan"
+              data-title="Sati in the Jodhpur fort"><img src="./travel_pics/rajasthan_2019/58.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/59.JPG" data-lightbox="rajasthan" data-title="Jodhpur fort"><img
+                src="./travel_pics/rajasthan_2019/59.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/60.JPG" data-lightbox="rajasthan"
+              data-title="In the Jodhpur fort"><img src="./travel_pics/rajasthan_2019/60.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/61.JPG" data-lightbox="rajasthan" data-title="Jodhpur fort"><img
+                src="./travel_pics/rajasthan_2019/61.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/62.JPG" data-lightbox="rajasthan"
+              data-title="With Giulia in the Jodhpur fort"><img src="./travel_pics/rajasthan_2019/62.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/63.JPG" data-lightbox="rajasthan" data-title="Jodhpur fort"><img
+                src="./travel_pics/rajasthan_2019/63.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/64.JPG" data-lightbox="rajasthan"
+              data-title="Selfie in the Jodhpur fort"><img src="./travel_pics/rajasthan_2019/64.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/65.JPG" data-lightbox="rajasthan" data-title="Jodhpur fort"><img
+                src="./travel_pics/rajasthan_2019/65.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/66.JPG" data-lightbox="rajasthan"
+              data-title="In a tuk tuk with Jessica and Giulia in Ajmer"><img src="./travel_pics/rajasthan_2019/66.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/67.JPG" data-lightbox="rajasthan"
+              data-title="Tuk tuk in Ajmer"><img src="./travel_pics/rajasthan_2019/67.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/68.JPG" data-lightbox="rajasthan"
+              data-title="Khwaja Muinuddin Chishti's sanctuary in Ajmer"><img src="./travel_pics/rajasthan_2019/68.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/69.JPG" data-lightbox="rajasthan"
+              data-title="Hindu temple in Ajmer"><img src="./travel_pics/rajasthan_2019/69.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/70.JPG" data-lightbox="rajasthan"
+              data-title="Brahma temple in Pushkar"><img src="./travel_pics/rajasthan_2019/70.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/71.JPG" data-lightbox="rajasthan" data-title="Pushkar"><img
+                src="./travel_pics/rajasthan_2019/71.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/72.JPG" data-lightbox="rajasthan" data-title="Pushkar"><img
+                src="./travel_pics/rajasthan_2019/72.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/73.JPG" data-lightbox="rajasthan"
+              data-title="Hawa Mahal in Jaipur"><img src="./travel_pics/rajasthan_2019/73.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/74.JPG" data-lightbox="rajasthan"
+              data-title="Group picture at the Hawa Mahal in Jaipu"><img src="./travel_pics/rajasthan_2019/74.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/75.JPG" data-lightbox="rajasthan" data-title="Amber fort"><img
+                src="./travel_pics/rajasthan_2019/75.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/76.JPG" data-lightbox="rajasthan" data-title="Amber fort"><img
+                src="./travel_pics/rajasthan_2019/76.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/77.JPG" data-lightbox="rajasthan" data-title="Amber fort"><img
+                src="./travel_pics/rajasthan_2019/77.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/78.JPG" data-lightbox="rajasthan" data-title="Amber fort"><img
+                src="./travel_pics/rajasthan_2019/78.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/79.JPG" data-lightbox="rajasthan" data-title="Amber fort"><img
+                src="./travel_pics/rajasthan_2019/79.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/80.JPG" data-lightbox="rajasthan"
+              data-title="Wind Palace in Jaipur"><img src="./travel_pics/rajasthan_2019/80.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/81.JPG" data-lightbox="rajasthan"
+              data-title="Jantar Mantar in Jaipur"><img src="./travel_pics/rajasthan_2019/81.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/82.JPG" data-lightbox="rajasthan"
+              data-title="Jantar Mantar in Jaipur"><img src="./travel_pics/rajasthan_2019/82.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/83.JPG" data-lightbox="rajasthan"
+              data-title="Jantar Mantar in Jaipur"><img src="./travel_pics/rajasthan_2019/83.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/84.JPG" data-lightbox="rajasthan"
+              data-title="Preparing for Diwali"><img src="./travel_pics/rajasthan_2019/84.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/85.JPG" data-lightbox="rajasthan" data-title="In Jaipur"><img
+                src="./travel_pics/rajasthan_2019/85.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/86.JPG" data-lightbox="rajasthan"
+              data-title="After dinner at our guide's house in Jaipur"><img src="./travel_pics/rajasthan_2019/86.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/87.JPG" data-lightbox="rajasthan"
+              data-title="Jain temple in Jaipur"><img src="./travel_pics/rajasthan_2019/87.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/88.JPG" data-lightbox="rajasthan" data-title="Abhaneri well"><img
+                src="./travel_pics/rajasthan_2019/88.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/89.JPG" data-lightbox="rajasthan"
+              data-title="At the Abhaneri well"><img src="./travel_pics/rajasthan_2019/89.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/90.JPG" data-lightbox="rajasthan"
+              data-title="At Fatehpur Sikri"><img src="./travel_pics/rajasthan_2019/90.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/91.JPG" data-lightbox="rajasthan" data-title="Fatehpur Sikri"><img
+                src="./travel_pics/rajasthan_2019/91.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/92.JPG" data-lightbox="rajasthan" data-title="Fatehpur Sikri"><img
+                src="./travel_pics/rajasthan_2019/92.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/93.JPG" data-lightbox="rajasthan" data-title="Fatehpur Sikri"><img
+                src="./travel_pics/rajasthan_2019/93.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/94.JPG" data-lightbox="rajasthan"
+              data-title="Shaikh Salim Chishti mosque"><img src="./travel_pics/rajasthan_2019/94.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/95.JPG" data-lightbox="rajasthan"
+              data-title="Shaikh Salim Chishti mosque"><img src="./travel_pics/rajasthan_2019/95.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/96.JPG" data-lightbox="rajasthan"
+              data-title="Shaikh Salim Chishti mosque"><img src="./travel_pics/rajasthan_2019/96.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/97.JPG" data-lightbox="rajasthan"
+              data-title="With Jessica and Giulia at the Taj Mahal"><img src="./travel_pics/rajasthan_2019/97.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/98.JPG" data-lightbox="rajasthan"
+              data-title="At the Taj Mahal"><img src="./travel_pics/rajasthan_2019/98.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/99.JPG" data-lightbox="rajasthan"
+              data-title="With Jessica and Giulia at the Taj Mahal"><img src="./travel_pics/rajasthan_2019/99.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/100.JPG" data-lightbox="rajasthan" data-title="Taj Maha"><img
+                src="./travel_pics/rajasthan_2019/100.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/101.JPG" data-lightbox="rajasthan" data-title="Taj Maha"><img
+                src="./travel_pics/rajasthan_2019/101.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/102.JPG" data-lightbox="rajasthan" data-title="Taj Maha"><img
+                src="./travel_pics/rajasthan_2019/102.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/103.JPG" data-lightbox="rajasthan"
+              data-title="At the Taj Mahal"><img src="./travel_pics/rajasthan_2019/103.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/104.JPG" data-lightbox="rajasthan"
+              data-title="At the Taj Mahal"><img src="./travel_pics/rajasthan_2019/104.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/105.JPG" data-lightbox="rajasthan" data-title="Agra fort"><img
+                src="./travel_pics/rajasthan_2019/105.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/106.JPG" data-lightbox="rajasthan"
+              data-title="At the Agra fort"><img src="./travel_pics/rajasthan_2019/106.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/107.JPG" data-lightbox="rajasthan" data-title="Agra fort"><img
+                src="./travel_pics/rajasthan_2019/107.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/108.JPG" data-lightbox="rajasthan"
+              data-title="In our hotel in Orccha"><img src="./travel_pics/rajasthan_2019/108.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/109.JPG" data-lightbox="rajasthan"
+              data-title="Celebrating Diwali"><img src="./travel_pics/rajasthan_2019/109.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/110.JPG" data-lightbox="rajasthan"
+              data-title="Celebrating Diwali"><img src="./travel_pics/rajasthan_2019/110.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/111.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/111.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/112.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/112.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/113.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/113.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/114.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/114.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/115.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/115.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/116.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/116.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/117.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/17.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/118.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/118.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/119.JPG" data-lightbox="rajasthan"
+              data-title="Royal palace in Orccha"><img src="./travel_pics/rajasthan_2019/119.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/120.JPG" data-lightbox="rajasthan"
+              data-title="Cenotaphs in Orccha"><img src="./travel_pics/rajasthan_2019/120.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/121.JPG" data-lightbox="rajasthan"
+              data-title="Selfie in Orccha"><img src="./travel_pics/rajasthan_2019/121.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/122.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/122.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/123.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/123.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/124.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/124.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/125.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/125.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/126.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/126.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/127.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/127.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/128.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/128.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/129.JPG" data-lightbox="rajasthan"
+              data-title="Group picture at the Khajuraho temples"><img src="./travel_pics/rajasthan_2019/129.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/130.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/130.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/131.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/131.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/132.JPG" data-lightbox="rajasthan"
+              data-title="Khajuraho temples"><img src="./travel_pics/rajasthan_2019/132.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/133.JPG" data-lightbox="rajasthan"
+              data-title="Panna tiger reserve"><img src="./travel_pics/rajasthan_2019/133.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/134.JPG" data-lightbox="rajasthan"
+              data-title="Panna tiger reserve"><img src="./travel_pics/rajasthan_2019/134.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/135.JPG" data-lightbox="rajasthan"
+              data-title="Panna tiger reserve"><img src="./travel_pics/rajasthan_2019/135.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/136.JPG" data-lightbox="rajasthan"
+              data-title="Panna tiger reserve"><img src="./travel_pics/rajasthan_2019/136.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/137.JPG" data-lightbox="rajasthan"
+              data-title="In the Panna tiger reserve"><img src="./travel_pics/rajasthan_2019/137.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/138.JPG" data-lightbox="rajasthan"
+              data-title="On the jeep with Jessica and Giulia"><img src="./travel_pics/rajasthan_2019/138.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/139.JPG" data-lightbox="rajasthan"
+              data-title="Train station in Satna"><img src="./travel_pics/rajasthan_2019/139.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/140.JPG" data-lightbox="rajasthan"
+              data-title="Train station in Satna"><img src="./travel_pics/rajasthan_2019/140.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/141.JPG" data-lightbox="rajasthan"
+              data-title="On the night train to Varanasi"><img src="./travel_pics/rajasthan_2019/141.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/142.JPG" data-lightbox="rajasthan"
+              data-title="On the night train to Varanasi"><img src="./travel_pics/rajasthan_2019/142.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/143.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/144.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/145.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/145.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/146.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/146.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/147.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/147.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/148.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/148.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/149.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/149.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/150.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/150.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/151.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/151.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/152.JPG" data-lightbox="rajasthan"
+              data-title="In our guide's house in Varanasi"><img src="./travel_pics/rajasthan_2019/152.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/153.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/153.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/154.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/154.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/155.JPG" data-lightbox="rajasthan"
+              data-title="Selfie on the boat in Varanasi"><img src="./travel_pics/rajasthan_2019/155.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/156.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/156.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/157.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/157.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/158.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/158.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/159.JPG" data-lightbox="rajasthan" data-title="Varanasi"><img
+                src="./travel_pics/rajasthan_2019/159.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/160.JPG" data-lightbox="rajasthan"
+              data-title="Selfie on the boat in Varanasi"><img src="./travel_pics/rajasthan_2019/160.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/161.JPG" data-lightbox="rajasthan"
+              data-title="Yoga class in Varanasi"><img src="./travel_pics/rajasthan_2019/161.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/162.JPG" data-lightbox="rajasthan" data-title="Delhi"><img
+                src="./travel_pics/rajasthan_2019/162.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/163.JPG" data-lightbox="rajasthan" data-title="Delhi"><img
+                src="./travel_pics/rajasthan_2019/163.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/164.JPG" data-lightbox="rajasthan"
+              data-title="Red Fort in Delhi"><img src="./travel_pics/rajasthan_2019/164.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/165.JPG" data-lightbox="rajasthan"
+              data-title="Red Fort in Delhi"><img src="./travel_pics/rajasthan_2019/165.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/166.JPG" data-lightbox="rajasthan"
+              data-title="With Jessica and Giulia in the Red Fort in Delhi"><img
+                src="./travel_pics/rajasthan_2019/166.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/167.JPG" data-lightbox="rajasthan"
+              data-title="Gandhi Raj Ghat in Delhi"><img src="./travel_pics/rajasthan_2019/167.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/rajasthan_2019/168.JPG" data-lightbox="rajasthan"
+              data-title="At the Lotus Temple in Delhi"><img src="./travel_pics/rajasthan_2019/168.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/169.JPG" data-lightbox="rajasthan"
+              data-title="Stranded in Istanbul airport"><img src="./travel_pics/rajasthan_2019/169.JPG" alt=""></a>
+          </div>
+          <div><a href="./travel_pics/rajasthan_2019/170.JPG" data-lightbox="rajasthan"
+              data-title="On the plane back home"><img src="./travel_pics/rajasthan_2019/170.JPG" alt=""></a></div>
         </div>
       </div>
       <button type="button" class="collapsible">Travel story</button>
@@ -58,7 +426,7 @@
           Indian independence in 1947, many Maharajas maintained titles and properties. Finally, in the 70ies,
           Rajasthan, too, had to submit to the central control of the country. Nowadays, lost his power due to trade
           routes, Rajasthan is a popular touristic destination and maybe one of the most visited regions of the country.
-          <br>For this reading, I suggest listening to Mahalaxmi Mantra Om Mahalaxmi Namo Namah Shri Mahalaxmi. This was
+          <br><br>For this reading, I suggest listening to Mahalaxmi Mantra Om Mahalaxmi Namo Namah Shri Mahalaxmi. This was
           a mantra we listened to during Diwali. It is quite long so it may not be even finished once you arrive at the
           end of the reading.
         </p>
@@ -117,7 +485,8 @@
           that was an important stop for the caravans in the XVI century. We visited the fort that was impressive for
           the size and the decorations. Later we had a walk in the city with a guide and saw some other Havelis, the
           market, and a Jain temple.
-          <br><i>As you may know, Hinduism is the main religion in India with 80.5% of the population. The main
+          <br><br><i>Maybe some extra info about the religions in India is at this point necessary.
+            Hinduism is the main religion in India with 80.5% of the population. The main
             characteristic is to believe in <b>Brahman</b>, an infinite force that generates everything and to which
             everything will eventually go back. As I said, I still don’t know how many gods there are, even the guides
             seemed to be a little bit confused on this point. However, the main are Brahma, the generator, Vishnu, the
@@ -133,9 +502,9 @@
             the monks usually have just a piece of fabric to cover themselves. –</i>
         </p>
         <p>
-        <img src="./story_images/raja3.jpg" class="small left" alt="">
+          <img src="./story_images/raja3.jpg" class="small left" alt="">
           <b>Day 4</b> <br>
-          Back on the road the day after, we arrived in <b>Pokhran</b>, 
+          Back on the road the day after, we arrived in <b>Pokhran</b>,
           a city famous for its fort (we saw maaaany
           forts). The building itself was beautiful but, as for the others we saw, there was nothing inside nor it was
           easy for us Europeans to completely appreciate it. However, we had an incredible guide that took us around. He
@@ -172,21 +541,12 @@
           place. I would say that day 4 was the day my perceptions changed.
           <br>As for the group, we started understanding each other better. I bonded easily with Marco, Jessica, and
           Giulia as they were my age and we have things in common while the “older guys” bonded among them. In that
-          sense, we had a sort of crack due to the age gap. It did not bother me so much but sometimes you felt it. An
-          important topic for me was the room breakdown. Having one couple, 4 women and 5 men, I was worried to end up
-          sharing the room with Laura, the coordinator, pretty much every day. Not nice. She was ok at the beginning but
-          not the kind of person I would bond with. First of all, she was old. And I mean OLD. Plus, there were already
-          been some moments I didn’t like her because she was not sharing details of the travel with the group (such as
-          the choice of restaurant for the evening, the details of the activities day by day and so on) and was always
-          acting as only what she said and thought was correct. Going back to the rooms, I stayed with her the first
-          night, and then I tried to organize different arrangements for the rest of the days. Jessica and Giulia were
-          helping a bit but no one was eager to really tackle the topic so, in the end, we were choosing at the very
-          last minute.
+          sense, we had a sort of crack due to the age gap. It did not bother me so much but sometimes you felt it.
         </p>
         <p>
           <b>Day 6</b> <br>
           After two nights in a row in the same hotel and one day with no bus transfer, we were moving again. We first
-          stopped just outside Jaisalmer on the <b>Gadisar lake</b>. 
+          stopped just outside Jaisalmer on the <b>Gadisar lake</b>.
           <img src="./story_images/raja5.jpg" class="small left" alt="">
           In the morning it is very suggestive as there are
           some pavilions coming out of water. Later, the bus driver stopped close to a madrasa, that we quickly visited,
@@ -212,7 +572,7 @@
           This was perhaps the most intense day of all. We did over 350 kilometers and just two stops along the way. The
           first one was in <b>Ajmer</b>,
           <img src="./story_images/raja6.jpg" class="big right" alt="">
-           where there is an important sanctuary dedicated to Khwaja Muinuddin Chishti,
+          where there is an important sanctuary dedicated to Khwaja Muinuddin Chishti,
           the founder of the first Sufi order in India. The place was super overcrowded, and the atmosphere is totally
           different compared to any other Islamic place I have ever visited. Even Islam is lived in a different, Indian,
           way: chaotic, noisy, and colorful. After that, we drove to <b>Pushkar</b>, a famous city for the yearly
@@ -299,7 +659,7 @@
           <b>Day 11</b> <br>
           Today was pretty intense. We went to the city center of Orchha. As I said, this city was an unexpected
           surprise. Its history is connected to the <b>Bundela rajput clan</b>, who elected it as their capital in 1531
-          until 1783. 
+          until 1783.
           <img src="./story_images/raja9.jpg" class="big left" alt="">
           Because of this, there are many royal palaces and cenotaphs that is possible to visit.
           What surprised me the most was that inside these palaces there are still very well preserved and beautiful
@@ -400,7 +760,7 @@
         <p>
           <b>Day 16</b> <br>
           As our last day in India, this was not a great day. <b>Delhi</b> is ugly, not because there are ugly things
-          but because it is a chaotic metropolis immerse in the smog. 
+          but because it is a chaotic metropolis immerse in the smog.
           <img src="./story_images/raja13.jpg" class="small left" alt="">
           It was hard even breathing. In addition to that,
           the group kind of broke up: the young couple left and went to explore alone and the others were all nervous
@@ -414,6 +774,7 @@
           of enjoying them. We had our last supper next to our hotel. It was good but my stomachache (it started few
           days before, most probably due to tiredness) did not allow me to enjoy it that much.
         </p>
+        <p>
         <b>Day 17</b> <br>
         This was the day we were leaving and the day we had a real adventure in the airports. We left early but then our
         flight was delayed of several hours because of the smog. Our reservation was under Turkish Airlines but the

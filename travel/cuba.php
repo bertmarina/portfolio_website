@@ -5,7 +5,7 @@
 
   <?php include '../php templates/head_links.php' ?>
 
-  <meta name="description" content="the homepage of my personal website" />
+  <meta name="description"/>
   <meta name="keywords"
     content="marina, bertolini, marina bertolini, travels, balkans, photos, pictures, travel pictures" />
 
@@ -43,325 +43,325 @@
       <button type="button" class="collapsible">Gallery</button>
       <div class="content">
         <div class="gallery">
-          <div><a href="./travel_pics/cuba/1.JPG" data-lightbox="cuba"
-              data-title="Ready on the plane with no screens"><img src="./travel_pics/cuba/1.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/2.JPG" data-lightbox="cuba" data-title="The group arrives in Havana"><img
-                src="./travel_pics/cuba/2.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/2.JPG" data-lightbox="cuba" data-title="First morning in Havana"><img
-                src="./travel_pics/cuba/2.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/3.JPG" data-lightbox="cuba" data-title="First morning in Havana"><img
-                src="./travel_pics/cuba/3.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/4.JPG" data-lightbox="cuba" data-title="First breakfast in Havana"><img
-                src="./travel_pics/cuba/4.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/5.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/5.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/6.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/6.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/7.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/7.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/8.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/8.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/9.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/9.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/10.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/10.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/11.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/11.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/12.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
-                src="./travel_pics/cuba/12.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/13.JPG" data-lightbox="cuba"
+          <div><a href="./travel_pics/cuba_2019/1.JPG" data-lightbox="cuba"
+              data-title="Ready on the plane with no screens"><img src="./travel_pics/cuba_2019/1.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/2.JPG" data-lightbox="cuba" data-title="The group arrives in Havana"><img
+                src="./travel_pics/cuba_2019/2.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/2.JPG" data-lightbox="cuba" data-title="First morning in Havana"><img
+                src="./travel_pics/cuba_2019/2.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/3.JPG" data-lightbox="cuba" data-title="First morning in Havana"><img
+                src="./travel_pics/cuba_2019/3.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/4.JPG" data-lightbox="cuba" data-title="First breakfast in Havana"><img
+                src="./travel_pics/cuba_2019/4.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/5.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/5.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/6.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/6.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/7.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/7.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/8.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/8.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/9.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/9.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/10.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/10.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/11.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/11.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/12.JPG" data-lightbox="cuba" data-title="In the streets of Havana"><img
+                src="./travel_pics/cuba_2019/12.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/13.JPG" data-lightbox="cuba"
               data-title="With Mauro, Americo, Barbara and Francesca on one car ready to explore Havana"><img
-                src="./travel_pics/cuba/13.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/14.JPG" data-lightbox="cuba" data-title="Plaza de la Revolucion"><img
-                src="./travel_pics/cuba/14.JPG" alt=""></a></div>
+                src="./travel_pics/cuba_2019/13.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/14.JPG" data-lightbox="cuba" data-title="Plaza de la Revolucion"><img
+                src="./travel_pics/cuba_2019/14.JPG" alt=""></a></div>
           <div><a href="./travel_pics/cuba/15.JPG" data-lightbox="cuba" data-title="Plaza de la Revolucion"><img
-                src="./travel_pics/cuba/15.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/16.JPG" data-lightbox="cuba" data-title="Plaza de la Revolucion"><img
-                src="./travel_pics/cuba/16.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/17.JPG" data-lightbox="cuba" data-title="Accident on the very first day"><img
-                src="./travel_pics/cuba/17.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/18.JPG" data-lightbox="cuba" data-title="Accident on the very first day"><img
-                src="./travel_pics/cuba/18.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/19.JPG" data-lightbox="cuba" data-title="John Lennon park"><img
-                src="./travel_pics/cuba/19.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/20.JPG" data-lightbox="cuba" data-title="El Malecon"><img
-                src="./travel_pics/cuba/20.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/21.JPG" data-lightbox="cuba" data-title="Habana Vieja"><img
-                src="./travel_pics/cuba/21.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/22.JPG" data-lightbox="cuba" data-title="Inside the Cathedral of Havana"><img
-                src="./travel_pics/cuba/22.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/23.JPG" data-lightbox="cuba" data-title="Santera"><img
-                src="./travel_pics/cuba/23.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/24.JPG" data-lightbox="cuba" data-title="El Floridita"><img
-                src="./travel_pics/cuba/24.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/25.JPG" data-lightbox="cuba"
-              data-title="With Hemingway inside the Floridita"><img src="./travel_pics/cuba/25.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/26.JPG" data-lightbox="cuba" data-title="Bacardi Palace"><img
-                src="./travel_pics/cuba/26.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/27.JPG" data-lightbox="cuba" data-title="La Bodeguita del Medio"><img
-                src="./travel_pics/cuba/27.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/28.JPG" data-lightbox="cuba" data-title="Habana Vieja"><img
-                src="./travel_pics/cuba/28.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/29.JPG" data-lightbox="cuba" data-title="Castillo del Morro"><img
-                src="./travel_pics/cuba/29.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/30.JPG" data-lightbox="cuba" data-title="Sunset along the Malecon"><img
-                src="./travel_pics/cuba/30.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/31.JPG" data-lightbox="cuba"
-              data-title="In the airport in Havana, ready to fly to Baracoa"><img src="./travel_pics/cuba/31.JPG"
+                src="./travel_pics/cuba_2019/15.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/16.JPG" data-lightbox="cuba" data-title="Plaza de la Revolucion"><img
+                src="./travel_pics/cuba_2019/16.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/17.JPG" data-lightbox="cuba" data-title="Accident on the very first day"><img
+                src="./travel_pics/cuba_2019/17.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/18.JPG" data-lightbox="cuba" data-title="Accident on the very first day"><img
+                src="./travel_pics/cuba_2019/18.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/19.JPG" data-lightbox="cuba" data-title="John Lennon park"><img
+                src="./travel_pics/cuba_2019/19.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/20.JPG" data-lightbox="cuba" data-title="El Malecon"><img
+                src="./travel_pics/cuba_2019/20.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/21.JPG" data-lightbox="cuba" data-title="Habana Vieja"><img
+                src="./travel_pics/cuba_2019/21.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/22.JPG" data-lightbox="cuba" data-title="Inside the Cathedral of Havana"><img
+                src="./travel_pics/cuba_2019/22.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/23.JPG" data-lightbox="cuba" data-title="Santera"><img
+                src="./travel_pics/cuba_2019/23.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/24.JPG" data-lightbox="cuba" data-title="El Floridita"><img
+                src="./travel_pics/cuba_2019/24.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/25.JPG" data-lightbox="cuba"
+              data-title="With Hemingway inside the Floridita"><img src="./travel_pics/cuba_2019/25.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/26.JPG" data-lightbox="cuba" data-title="Bacardi Palace"><img
+                src="./travel_pics/cuba_2019/26.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/27.JPG" data-lightbox="cuba" data-title="La Bodeguita del Medio"><img
+                src="./travel_pics/cuba_2019/27.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/28.JPG" data-lightbox="cuba" data-title="Habana Vieja"><img
+                src="./travel_pics/cuba_2019/28.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/29.JPG" data-lightbox="cuba" data-title="Castillo del Morro"><img
+                src="./travel_pics/cuba_2019/29.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/30.JPG" data-lightbox="cuba" data-title="Sunset along the Malecon"><img
+                src="./travel_pics/cuba_2019/30.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/31.JPG" data-lightbox="cuba"
+              data-title="In the airport in Havana, ready to fly to Baracoa"><img src="./travel_pics/cuba_2019/31.JPG"
                 alt=""></a></div>
-          <div><a href="./travel_pics/cuba/32.JPG" data-lightbox="cuba"
-              data-title="In the airport in Havana, ready to fly to Baracoa"><img src="./travel_pics/cuba/32.JPG"
+          <div><a href="./travel_pics/cuba_2019/32.JPG" data-lightbox="cuba"
+              data-title="In the airport in Havana, ready to fly to Baracoa"><img src="./travel_pics/cuba_2019/32.JPG"
                 alt=""></a></div>
-          <div><a href="./travel_pics/cuba/33.JPG" data-lightbox="cuba" data-title="Airport of Baracoa"><img
-                src="./travel_pics/cuba/33.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/34.JPG" data-lightbox="cuba" data-title="Sign in Baracoa"><img
-                src="./travel_pics/cuba/34.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/35.JPG" data-lightbox="cuba" data-title="Ready to go to Baracoa"><img
-                src="./travel_pics/cuba/35.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/36.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/36.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/37.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/37.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/38.JPG" data-lightbox="cuba" data-title="Breakfast in Baracoa"><img
-                src="./travel_pics/cuba/38.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/39.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/39.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/40.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/40.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/41.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/41.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/42.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/42.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/43.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/43.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/44.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/44.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/45.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/45.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/46.JPG" data-lightbox="cuba"
-              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba/46.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/47.JPG" data-lightbox="cuba"
-              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba/47.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/48.JPG" data-lightbox="cuba"
-              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba/48.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/49.JPG" data-lightbox="cuba" data-title="Cueva del Paraiso"><img
-                src="./travel_pics/cuba/49.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/50.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/50.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/51.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/51.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/52.JPG" data-lightbox="cuba" data-title="Baracoa"><img
-                src="./travel_pics/cuba/52.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/53.JPG" data-lightbox="cuba" data-title="The Museo de la Rusa"><img
-                src="./travel_pics/cuba/53.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/54.JPG" data-lightbox="cuba"
-              data-title="With Rene Frometa in the Museo de la Rusa"><img src="./travel_pics/cuba/54.JPG" alt=""></a>
+          <div><a href="./travel_pics/cuba_2019/33.JPG" data-lightbox="cuba" data-title="Airport of Baracoa"><img
+                src="./travel_pics/cuba_2019/33.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/34.JPG" data-lightbox="cuba" data-title="Sign in Baracoa"><img
+                src="./travel_pics/cuba_2019/34.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/35.JPG" data-lightbox="cuba" data-title="Ready to go to Baracoa"><img
+                src="./travel_pics/cuba_2019/35.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/36.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/36.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/37.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/37.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/38.JPG" data-lightbox="cuba" data-title="Breakfast in Baracoa"><img
+                src="./travel_pics/cuba_2019/38.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/39.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/39.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/40.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/40.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/41.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/41.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/42.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/42.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/43.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/43.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/44.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/44.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/45.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/45.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/46.JPG" data-lightbox="cuba"
+              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba_2019/46.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/47.JPG" data-lightbox="cuba"
+              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba_2019/47.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/48.JPG" data-lightbox="cuba"
+              data-title="Preparing the pork for New Year's Eve"><img src="./travel_pics/cuba_2019/48.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/49.JPG" data-lightbox="cuba" data-title="Cueva del Paraiso"><img
+                src="./travel_pics/cuba_2019/49.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/50.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/50.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/51.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/51.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/52.JPG" data-lightbox="cuba" data-title="Baracoa"><img
+                src="./travel_pics/cuba_2019/52.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/53.JPG" data-lightbox="cuba" data-title="The Museo de la Rusa"><img
+                src="./travel_pics/cuba_2019/53.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/54.JPG" data-lightbox="cuba"
+              data-title="With Rene Frometa in the Museo de la Rusa"><img src="./travel_pics/cuba_2019/54.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/55.JPG" data-lightbox="cuba" data-title="Chocolate in Baracoa"><img
-                src="./travel_pics/cuba/55.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/56.JPG" data-lightbox="cuba" data-title="Celebrating New Year's Eve"><img
-                src="./travel_pics/cuba/56.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/57.JPG" data-lightbox="cuba" data-title="With Mauro"><img
-                src="./travel_pics/cuba/57.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/58.JPG" data-lightbox="cuba" data-title="Our dinner"><img
-                src="./travel_pics/cuba/58.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/59.JPG" data-lightbox="cuba"
-              data-title="Celebrating New Year's Eve in the square of Baracoa"><img src="./travel_pics/cuba/59.JPG"
+          <div><a href="./travel_pics/cuba_2019/55.JPG" data-lightbox="cuba" data-title="Chocolate in Baracoa"><img
+                src="./travel_pics/cuba_2019/55.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/56.JPG" data-lightbox="cuba" data-title="Celebrating New Year's Eve"><img
+                src="./travel_pics/cuba_2019/56.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/57.JPG" data-lightbox="cuba" data-title="With Mauro"><img
+                src="./travel_pics/cuba_2019/57.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/58.JPG" data-lightbox="cuba" data-title="Our dinner"><img
+                src="./travel_pics/cuba_2019/58.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/59.JPG" data-lightbox="cuba"
+              data-title="Celebrating New Year's Eve in the square of Baracoa"><img src="./travel_pics/cuba_2019/59.JPG"
                 alt=""></a></div>
-          <div><a href="./travel_pics/cuba/60.JPG" data-lightbox="cuba" data-title="Ready to go to the beach"><img
-                src="./travel_pics/cuba/60.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/61.JPG" data-lightbox="cuba" data-title="On the car"><img
-                src="./travel_pics/cuba/61.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/62.JPG" data-lightbox="cuba" data-title="The car broke down"><img
-                src="./travel_pics/cuba/62.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/63.JPG" data-lightbox="cuba" data-title="Leaving Baracoa province"><img
-                src="./travel_pics/cuba/63.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/64.JPG" data-lightbox="cuba" data-title="Tukola on the beach"><img
-                src="./travel_pics/cuba/64.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/65.JPG" data-lightbox="cuba" data-title="Me and Mauro in Guardalavaca"><img
-                src="./travel_pics/cuba/65.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/66.JPG" data-lightbox="cuba" data-title="Guardalavaca"><img
-                src="./travel_pics/cuba/66.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/67.JPG" data-lightbox="cuba" data-title="Group selfie in Guardalavaca"><img
-                src="./travel_pics/cuba/67.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/68.JPG" data-lightbox="cuba" data-title="Breakfast with Mauro in Banes"><img
-                src="./travel_pics/cuba/68.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/69.JPG" data-lightbox="cuba" data-title="Banes"><img
-                src="./travel_pics/cuba/69.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/70.JPG" data-lightbox="cuba" data-title="Playa Esmeralda"><img
-                src="./travel_pics/cuba/70.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/71.JPG" data-lightbox="cuba"
-              data-title="Living room of our casa particular"><img src="./travel_pics/cuba/71.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/72.JPG" data-lightbox="cuba" data-title="Going to Santiago"><img
-                src="./travel_pics/cuba/72.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/73.JPG" data-lightbox="cuba" data-title="Tomb of Jose Marti in Santiago"><img
-                src="./travel_pics/cuba/73.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/74.JPG" data-lightbox="cuba"
-              data-title="Tomb of Fidel Castro in Santiago"><img src="./travel_pics/cuba/74.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/75.JPG" data-lightbox="cuba" data-title="Cemetery of Santa Ifigenia"><img
-                src="./travel_pics/cuba/75.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/76.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/76.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/77.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/77.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/78.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/78.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/79.JPG" data-lightbox="cuba"
-              data-title="Valerio cutting his beard in Santiago"><img src="./travel_pics/cuba/79.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/80.JPG" data-lightbox="cuba"
-              data-title="Museo de la Lucha Clandestina in Santiago"><img src="./travel_pics/cuba/80.JPG" alt=""></a>
+          <div><a href="./travel_pics/cuba_2019/60.JPG" data-lightbox="cuba" data-title="Ready to go to the beach"><img
+                src="./travel_pics/cuba_2019/60.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/61.JPG" data-lightbox="cuba" data-title="On the car"><img
+                src="./travel_pics/cuba_2019/61.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/62.JPG" data-lightbox="cuba" data-title="The car broke down"><img
+                src="./travel_pics/cuba_2019/62.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/63.JPG" data-lightbox="cuba" data-title="Leaving Baracoa province"><img
+                src="./travel_pics/cuba_2019/63.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/64.JPG" data-lightbox="cuba" data-title="Tukola on the beach"><img
+                src="./travel_pics/cuba_2019/64.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/65.JPG" data-lightbox="cuba" data-title="Me and Mauro in Guardalavaca"><img
+                src="./travel_pics/cuba_2019/65.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/66.JPG" data-lightbox="cuba" data-title="Guardalavaca"><img
+                src="./travel_pics/cuba_2019/66.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/67.JPG" data-lightbox="cuba" data-title="Group selfie in Guardalavaca"><img
+                src="./travel_pics/cuba_2019/67.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/68.JPG" data-lightbox="cuba" data-title="Breakfast with Mauro in Banes"><img
+                src="./travel_pics/cuba_2019/68.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/69.JPG" data-lightbox="cuba" data-title="Banes"><img
+                src="./travel_pics/cuba_2019/69.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/70.JPG" data-lightbox="cuba" data-title="Playa Esmeralda"><img
+                src="./travel_pics/cuba_2019/70.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/71.JPG" data-lightbox="cuba"
+              data-title="Living room of our casa particular"><img src="./travel_pics/cuba_2019/71.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/72.JPG" data-lightbox="cuba" data-title="Going to Santiago"><img
+                src="./travel_pics/cuba_2019/72.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/73.JPG" data-lightbox="cuba" data-title="Tomb of Jose Marti in Santiago"><img
+                src="./travel_pics/cuba_2019/73.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/74.JPG" data-lightbox="cuba"
+              data-title="Tomb of Fidel Castro in Santiago"><img src="./travel_pics/cuba_2019/74.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/75.JPG" data-lightbox="cuba" data-title="Cemetery of Santa Ifigenia"><img
+                src="./travel_pics/cuba_2019/75.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/76.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/76.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/77.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/77.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/78.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/78.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/79.JPG" data-lightbox="cuba"
+              data-title="Valerio cutting his beard in Santiago"><img src="./travel_pics/cuba_2019/79.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/80.JPG" data-lightbox="cuba"
+              data-title="Museo de la Lucha Clandestina in Santiago"><img src="./travel_pics/cuba_2019/80.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/81.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/81.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/82.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/82.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/83.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/83.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/84.JPG" data-lightbox="cuba" data-title="Cathedral of Santiago"><img
-                src="./travel_pics/cuba/84.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/85.JPG" data-lightbox="cuba" data-title="Talking to Isabel in Santiago"><img
-                src="./travel_pics/cuba/85.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/86.JPG" data-lightbox="cuba" data-title="Bar in Santiago"><img
-                src="./travel_pics/cuba/86.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/87.JPG" data-lightbox="cuba"
-              data-title="Going to Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba/87.JPG" alt=""></a>
+          <div><a href="./travel_pics/cuba_2019/81.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/81.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/82.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/82.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/83.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/83.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/84.JPG" data-lightbox="cuba" data-title="Cathedral of Santiago"><img
+                src="./travel_pics/cuba_2019/84.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/85.JPG" data-lightbox="cuba" data-title="Talking to Isabel in Santiago"><img
+                src="./travel_pics/cuba_2019/85.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/86.JPG" data-lightbox="cuba" data-title="Bar in Santiago"><img
+                src="./travel_pics/cuba_2019/86.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/87.JPG" data-lightbox="cuba"
+              data-title="Going to Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba_2019/87.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/88.JPG" data-lightbox="cuba"
-              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba/88.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/89.JPG" data-lightbox="cuba"
-              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba/89.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/90.JPG" data-lightbox="cuba"
-              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba/90.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/91.JPG" data-lightbox="cuba"
-              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba/91.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/92.JPG" data-lightbox="cuba" data-title="Cuartel Moncada"><img
-                src="./travel_pics/cuba/92.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/93.JPG" data-lightbox="cuba" data-title="Cuartel Moncada"><img
-                src="./travel_pics/cuba/93.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/94.JPG" data-lightbox="cuba" data-title="Santiago"><img
-                src="./travel_pics/cuba/94.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/95.JPG" data-lightbox="cuba" data-title="Wall in Santiago"><img
-                src="./travel_pics/cuba/95.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/96.JPG" data-lightbox="cuba" data-title="Bus station in Santiago"><img
-                src="./travel_pics/cuba/96.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/97.JPG" data-lightbox="cuba" data-title="Bus station in Santiago"><img
-                src="./travel_pics/cuba/97.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/98.JPG" data-lightbox="cuba" data-title="Night bus to Santa Clara"><img
-                src="./travel_pics/cuba/98.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/99.JPG" data-lightbox="cuba" data-title="Our car in Santa Clara"><img
-                src="./travel_pics/cuba/99.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/100.JPG" data-lightbox="cuba" data-title="Our car inside"><img
-                src="./travel_pics/cuba/100.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/101.JPG" data-lightbox="cuba"
-              data-title="Mausoleum of Che Guevara in Santa Clara"><img src="./travel_pics/cuba/101.JPG" alt=""></a>
+          <div><a href="./travel_pics/cuba_2019/88.JPG" data-lightbox="cuba"
+              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba_2019/88.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/89.JPG" data-lightbox="cuba"
+              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba_2019/89.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/90.JPG" data-lightbox="cuba"
+              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba_2019/90.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/91.JPG" data-lightbox="cuba"
+              data-title="Castillo de San Pedro de la Roca"><img src="./travel_pics/cuba_2019/91.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/92.JPG" data-lightbox="cuba" data-title="Cuartel Moncada"><img
+                src="./travel_pics/cuba_2019/92.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/93.JPG" data-lightbox="cuba" data-title="Cuartel Moncada"><img
+                src="./travel_pics/cuba_2019/93.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/94.JPG" data-lightbox="cuba" data-title="Santiago"><img
+                src="./travel_pics/cuba_2019/94.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/95.JPG" data-lightbox="cuba" data-title="Wall in Santiago"><img
+                src="./travel_pics/cuba_2019/95.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/96.JPG" data-lightbox="cuba" data-title="Bus station in Santiago"><img
+                src="./travel_pics/cuba_2019/96.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/97.JPG" data-lightbox="cuba" data-title="Bus station in Santiago"><img
+                src="./travel_pics/cuba_2019/97.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/98.JPG" data-lightbox="cuba" data-title="Night bus to Santa Clara"><img
+                src="./travel_pics/cuba_2019/98.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/99.JPG" data-lightbox="cuba" data-title="Our car in Santa Clara"><img
+                src="./travel_pics/cuba_2019/99.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/100.JPG" data-lightbox="cuba" data-title="Our car inside"><img
+                src="./travel_pics/cuba_2019/100.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/101.JPG" data-lightbox="cuba"
+              data-title="Mausoleum of Che Guevara in Santa Clara"><img src="./travel_pics/cuba_2019/101.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/102.JPG" data-lightbox="cuba"
-              data-title="Museo del Treno in Santa Clara"><img src="./travel_pics/cuba/102.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/103.JPG" data-lightbox="cuba" data-title="Palacio Cantero in Trinidad"><img
-                src="./travel_pics/cuba/103.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/104.JPG" data-lightbox="cuba"
-              data-title="View from the Palacio Cantero in Trinidad"><img src="./travel_pics/cuba/104.JPG" alt=""></a>
+          <div><a href="./travel_pics/cuba_2019/102.JPG" data-lightbox="cuba"
+              data-title="Museo del Treno in Santa Clara"><img src="./travel_pics/cuba_2019/102.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/103.JPG" data-lightbox="cuba" data-title="Palacio Cantero in Trinidad"><img
+                src="./travel_pics/cuba_2019/103.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/104.JPG" data-lightbox="cuba"
+              data-title="View from the Palacio Cantero in Trinidad"><img src="./travel_pics/cuba_2019/104.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/105.JPG" data-lightbox="cuba"
+          <div><a href="./travel_pics/cuba_2019/105.JPG" data-lightbox="cuba"
               data-title="Selfie with Mauro on the top of Palacio Cantero in Trinidad"><img
-                src="./travel_pics/cuba/105.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/106.JPG" data-lightbox="cuba"
-              data-title="View from the Palacio Cantero in Trinidad"><img src="./travel_pics/cuba/106.JPG" alt=""></a>
+                src="./travel_pics/cuba_2019/105.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/106.JPG" data-lightbox="cuba"
+              data-title="View from the Palacio Cantero in Trinidad"><img src="./travel_pics/cuba_2019/106.JPG" alt=""></a>
           </div>
-          <div><a href="./travel_pics/cuba/107.JPG" data-lightbox="cuba" data-title="Trinidad"><img
-                src="./travel_pics/cuba/107.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/108.JPG" data-lightbox="cuba" data-title="Trinidad"><img
-                src="./travel_pics/cuba/108.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/109.JPG" data-lightbox="cuba" data-title="Santeria doll"><img
-                src="./travel_pics/cuba/109.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/110.JPG" data-lightbox="cuba" data-title="Valle de los Ingenios"><img
-                src="./travel_pics/cuba/110.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/111.JPG" data-lightbox="cuba"
-              data-title="Hacienda in the Valle de los Ingenios"><img src="./travel_pics/cuba/111.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/112.JPG" data-lightbox="cuba" data-title="Sugar cane juice"><img
-                src="./travel_pics/cuba/112.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/113.JPG" data-lightbox="cuba" data-title="Manaca Iznaga"><img
-                src="./travel_pics/cuba/113.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/114.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
-                src="./travel_pics/cuba/114.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/115.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
-                src="./travel_pics/cuba/115.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/116.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
-                src="./travel_pics/cuba/116.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/117.JPG" data-lightbox="cuba" data-title="Checking the cigar"><img
-                src="./travel_pics/cuba/117.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/118.JPG" data-lightbox="cuba" data-title="Our car to Cienfuegos"><img
-                src="./travel_pics/cuba/118.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/119.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
-                src="./travel_pics/cuba/119.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/120.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
-                src="./travel_pics/cuba/120.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/121.JPG" data-lightbox="cuba"
-              data-title="Mortadella sandwiches in Cienfuegos"><img src="./travel_pics/cuba/121.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/122.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
-                src="./travel_pics/cuba/122.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/123.JPG" data-lightbox="cuba" data-title="On the charriot in Cienfuegos"><img
-                src="./travel_pics/cuba/123.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/124.JPG" data-lightbox="cuba" data-title="Museo Giron"><img
-                src="./travel_pics/cuba/124.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/125.JPG" data-lightbox="cuba" data-title="Museo Giron"><img
-                src="./travel_pics/cuba/125.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/126.JPG" data-lightbox="cuba" data-title="Vinales Valley"><img
-                src="./travel_pics/cuba/126.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/127.JPG" data-lightbox="cuba" data-title="Horses in the Vinales Valley"><img
-                src="./travel_pics/cuba/127.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/128.JPG" data-lightbox="cuba" data-title="Horses in the Vinales Valley"><img
-                src="./travel_pics/cuba/128.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/129.JPG" data-lightbox="cuba"
-              data-title="Riding Caramelo in the Vinales Valley"><img src="./travel_pics/cuba/129.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/130.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
-                src="./travel_pics/cuba/130.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/131.JPG" data-lightbox="cuba" data-title="Cigar demonstration"><img
-                src="./travel_pics/cuba/131.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/132.JPG" data-lightbox="cuba" data-title="Cigar demonstration"><img
-                src="./travel_pics/cuba/132.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/133.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
-                src="./travel_pics/cuba/133.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/134.JPG" data-lightbox="cuba" data-title="Riding in the Vinales Valley"><img
-                src="./travel_pics/cuba/134.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/135.JPG" data-lightbox="cuba" data-title="Riding in the Vinales Valley"><img
-                src="./travel_pics/cuba/135.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/136.JPG" data-lightbox="cuba"
-              data-title="Going to the Cueva de San Miguel"><img src="./travel_pics/cuba/136.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/137.JPG" data-lightbox="cuba" data-title="Cueva de San Miguel"><img
-                src="./travel_pics/cuba/137.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/138.JPG" data-lightbox="cuba" data-title="Mural de la Prehistoria"><img
-                src="./travel_pics/cuba/138.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/139.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
-                src="./travel_pics/cuba/139.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/140.JPG" data-lightbox="cuba"
-              data-title="Our car for the day in Vinales"><img src="./travel_pics/cuba/140.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/141.JPG" data-lightbox="cuba" data-title="Butcher's shop in Havana"><img
-                src="./travel_pics/cuba/141.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/142.JPG" data-lightbox="cuba" data-title="Fisherman on the Malecon"><img
-                src="./travel_pics/cuba/142.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/143.JPG" data-lightbox="cuba" data-title="On the Malecon"><img
-                src="./travel_pics/cuba/143.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/144.JPG" data-lightbox="cuba" data-title="Cathedral of Havana"><img
-                src="./travel_pics/cuba/144.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/145.JPG" data-lightbox="cuba" data-title="Shooting in Havana"><img
-                src="./travel_pics/cuba/145.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/146.JPG" data-lightbox="cuba" data-title="On the bus in Havana"><img
-                src="./travel_pics/cuba/146.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/147.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
-                  src=" ./travel_pics/cuba/147.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/148.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
-                  src=" ./travel_pics/cuba/148.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/149.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
-                  src=" ./travel_pics/cuba/149.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/150.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
-                  src=" ./travel_pics/cuba/150.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/151.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
-                  src=" ./travel_pics/cuba/151.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/152.JPG" data-lightbox="cuba"
-              data-title="Hemingway's boat Pilar in Havana"><img src="./travel_pics/cuba/152.JPG" alt=""></a></div>
-          <div><a href="./travel_pics/cuba/153.JPG" data-lightbox="cuba"
-              data-title="On the collective taxi in Havana"><img src="./travel_pics/cuba/153.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/107.JPG" data-lightbox="cuba" data-title="Trinidad"><img
+                src="./travel_pics/cuba_2019/107.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/108.JPG" data-lightbox="cuba" data-title="Trinidad"><img
+                src="./travel_pics/cuba_2019/108.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/109.JPG" data-lightbox="cuba" data-title="Santeria doll"><img
+                src="./travel_pics/cuba_2019/109.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/110.JPG" data-lightbox="cuba" data-title="Valle de los Ingenios"><img
+                src="./travel_pics/cuba_2019/110.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/111.JPG" data-lightbox="cuba"
+              data-title="Hacienda in the Valle de los Ingenios"><img src="./travel_pics/cuba_2019/111.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/112.JPG" data-lightbox="cuba" data-title="Sugar cane juice"><img
+                src="./travel_pics/cuba_2019/112.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/113.JPG" data-lightbox="cuba" data-title="Manaca Iznaga"><img
+                src="./travel_pics/cuba_2019/113.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/114.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
+                src="./travel_pics/cuba_2019/114.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/115.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
+                src="./travel_pics/cuba_2019/115.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/116.JPG" data-lightbox="cuba" data-title="View from Manaca Iznaga"><img
+                src="./travel_pics/cuba_2019/116.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/117.JPG" data-lightbox="cuba" data-title="Checking the cigar"><img
+                src="./travel_pics/cuba_2019/117.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/118.JPG" data-lightbox="cuba" data-title="Our car to Cienfuegos"><img
+                src="./travel_pics/cuba_2019/118.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/119.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
+                src="./travel_pics/cuba_2019/119.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/120.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
+                src="./travel_pics/cuba_2019/120.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/121.JPG" data-lightbox="cuba"
+              data-title="Mortadella sandwiches in Cienfuegos"><img src="./travel_pics/cuba_2019/121.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/122.JPG" data-lightbox="cuba" data-title="Cienfuegos"><img
+                src="./travel_pics/cuba_2019/122.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/123.JPG" data-lightbox="cuba" data-title="On the charriot in Cienfuegos"><img
+                src="./travel_pics/cuba_2019/123.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/124.JPG" data-lightbox="cuba" data-title="Museo Giron"><img
+                src="./travel_pics/cuba_2019/124.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/125.JPG" data-lightbox="cuba" data-title="Museo Giron"><img
+                src="./travel_pics/cuba_2019/125.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/126.JPG" data-lightbox="cuba" data-title="Vinales Valley"><img
+                src="./travel_pics/cuba_2019/126.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/127.JPG" data-lightbox="cuba" data-title="Horses in the Vinales Valley"><img
+                src="./travel_pics/cuba_2019/127.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/128.JPG" data-lightbox="cuba" data-title="Horses in the Vinales Valley"><img
+                src="./travel_pics/cuba_2019/128.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/129.JPG" data-lightbox="cuba"
+              data-title="Riding Caramelo in the Vinales Valley"><img src="./travel_pics/cuba_2019/129.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/130.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
+                src="./travel_pics/cuba_2019/130.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/131.JPG" data-lightbox="cuba" data-title="Cigar demonstration"><img
+                src="./travel_pics/cuba_2019/131.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/132.JPG" data-lightbox="cuba" data-title="Cigar demonstration"><img
+                src="./travel_pics/cuba_2019/132.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cubcuba_2019a/133.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
+                src="./travel_pics/cuba_2019/133.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/134.JPG" data-lightbox="cuba" data-title="Riding in the Vinales Valley"><img
+                src="./travel_pics/cuba_2019/134.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/135.JPG" data-lightbox="cuba" data-title="Riding in the Vinales Valley"><img
+                src="./travel_pics/cuba_2019/135.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/136.JPG" data-lightbox="cuba"
+              data-title="Going to the Cueva de San Miguel"><img src="./travel_pics/cuba_2019/136.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/137.JPG" data-lightbox="cuba" data-title="Cueva de San Miguel"><img
+                src="./travel_pics/cuba_2019/137.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/138.JPG" data-lightbox="cuba" data-title="Mural de la Prehistoria"><img
+                src="./travel_pics/cuba_2019/138.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/139.JPG" data-lightbox="cuba" data-title="Tobacco fields"><img
+                src="./travel_pics/cuba_2019/139.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/140.JPG" data-lightbox="cuba"
+              data-title="Our car for the day in Vinales"><img src="./travel_pics/cuba_2019/140.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/141.JPG" data-lightbox="cuba" data-title="Butcher's shop in Havana"><img
+                src="./travel_pics/cuba_2019/141.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/142.JPG" data-lightbox="cuba" data-title="Fisherman on the Malecon"><img
+                src="./travel_pics/cuba_2019/142.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/143.JPG" data-lightbox="cuba" data-title="On the Malecon"><img
+                src="./travel_pics/cuba_2019/143.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/144.JPG" data-lightbox="cuba" data-title="Cathedral of Havana"><img
+                src="./travel_pics/cuba_2019/144.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/145.JPG" data-lightbox="cuba" data-title="Shooting in Havana"><img
+                src="./travel_pics/cuba_2019/145.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/146.JPG" data-lightbox="cuba" data-title="On the bus in Havana"><img
+                src="./travel_pics/cuba_2019/146.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/147.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
+                  src=" ./travel_pics/cuba_2019/147.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/148.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
+                  src=" ./travel_pics/cuba_2019/148.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/149.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
+                  src=" ./travel_pics/cuba_2019/149.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/150.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
+                  src=" ./travel_pics/cuba_2019/150.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/151.JPG" data-lightbox="cuba" data-title="Hemingway's house in Havana""><img
+                  src=" ./travel_pics/cuba_2019/151.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/152.JPG" data-lightbox="cuba"
+              data-title="Hemingway's boat Pilar in Havana"><img src="./travel_pics/cuba_2019/152.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/cuba_2019/153.JPG" data-lightbox="cuba"
+              data-title="On the collective taxi in Havana"><img src="./travel_pics/cuba_2019/153.JPG" alt=""></a></div>
         </div>
       </div>
       <button type="button" class="collapsible">Travel story</button>
