@@ -44,6 +44,7 @@
       <a href="./czech_republic.php" class="country"><img class="countrypic" src="/travel/pics-countries/czech republic.jpg" alt=""></a>
       <a href="./ethiopia.php" class="country"><img class="countrypic" src="/travel/pics-countries/ethiopia.jpg" alt=""></a>
       <a href="./france.php" class="country"><img class="countrypic" src="/travel/pics-countries/france.jpg" alt=""></a>
+      <a href="./great_britain.php" class="country"><img class="countrypic" src="/travel/pics-countries/uk.jpg" alt=""></a>
       <a href="./greece.php" class="country"><img class="countrypic" src="/travel/pics-countries/greece.jpg" alt=""></a>
       <a href="./hungary.php" class="country"><img class="countrypic" src="/travel/pics-countries/hungary.jpg" alt=""></a>
       <a href="./india.php" class="country"><img class="countrypic" src="/travel/pics-countries/india.jpg" alt=""></a>
@@ -55,7 +56,6 @@
       <a href="./spain.php" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
       <a href="./sri_lanka.php" class="country"><img class="countrypic" src="/travel/pics-countries/sri lanka.jpg" alt=""></a>
       <a href="./turkey.php" class="country"><img class="countrypic" src="/travel/pics-countries/turkey.jpg" alt=""></a>
-      <a href="./uk.php" class="country"><img class="countrypic" src="/travel/pics-countries/uk.jpg" alt=""></a>
       <a href="./usa.php" class="country"><img class="countrypic" src="/travel/pics-countries/usa.jpg" alt=""></a>
     </div>
     <div class="arrow"><a href="#top"><i class="fas fa-arrow-up"></i></a></div>
