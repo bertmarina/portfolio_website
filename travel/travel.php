@@ -48,6 +48,7 @@
       <a href="./greece.php" class="country"><img class="countrypic" src="/travel/pics-countries/greece.jpg" alt=""></a>
       <a href="./hungary.php" class="country"><img class="countrypic" src="/travel/pics-countries/hungary.jpg" alt=""></a>
       <a href="./india.php" class="country"><img class="countrypic" src="/travel/pics-countries/india.jpg" alt=""></a>
+      <a href="./italy.php" class="country"><img class="countrypic" src="/travel/pics-countries/italy.jpg" alt=""></a>
       <a href="./kenya.php" class="country"><img class="countrypic" src="/travel/pics-countries/kenya.jpg" alt=""></a>
       <a href="./malta.php" class="country"><img class="countrypic" src="/travel/pics-countries/malta.jpg" alt=""></a>
       <a href="./netherlands.php" class="country"><img class="countrypic" src="/travel/pics-countries/netherlands.jpg" alt=""></a>
@@ -55,6 +56,7 @@
       <a href="./south_korea.php" class="country"><img class="countrypic" src="/travel/pics-countries/south korea.jpg" alt=""></a>
       <a href="./spain.php" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
       <a href="./sri_lanka.php" class="country"><img class="countrypic" src="/travel/pics-countries/sri lanka.jpg" alt=""></a>
+      <a href="./switzerland.php" class="country"><img class="countrypic" src="/travel/pics-countries/switzerland.jpg" alt=""></a>
       <a href="./turkey.php" class="country"><img class="countrypic" src="/travel/pics-countries/turkey.jpg" alt=""></a>
       <a href="./usa.php" class="country"><img class="countrypic" src="/travel/pics-countries/usa.jpg" alt=""></a>
     </div>
