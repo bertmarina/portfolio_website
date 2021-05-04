@@ -28,6 +28,69 @@
     </div>
 
     <div class="travels">
+      <img class="travel" src="./travel_title/roma.jpg" alt="">
+      <p class="intro">
+        I have been several times to Rome, for travelling, for work... but, every time I come back to this city, I am
+        amazed by how wonderful it is. This was the <b>second time</b>
+        I came and I was with my dad. We did some classic visits in the city and we also went to <b>Ostia Antica</b> and
+        <b>Tivoli</b>. Finally, we also stop in <b>Bomarzo</b>
+        on the way back home.
+      </p>
+    </div>
+    <div class="button-container">
+      <button type="button" class="collapsible">Gallery</button>
+      <div class="content">
+        <div class="gallery">
+          <div><a href="./travel_pics/roma_2010/1.JPG" data-lightbox="roma" data-title="Baths of Caracalla"><img
+                src="./travel_pics/roma_2010/1.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/2.JPG" data-lightbox="roma" data-title="Baths of Caracalla"><img
+                src="./travel_pics/roma_2010/2.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/3.JPG" data-lightbox="roma" data-title="Baths of Caracalla"><img
+                src="./travel_pics/roma_2010/3.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/4.JPG" data-lightbox="roma" data-title="Ostia Antica"><img
+                src="./travel_pics/roma_2010/4.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/5.JPG" data-lightbox="roma" data-title="Ostia Antica"><img
+                src="./travel_pics/roma_2010/5.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/6.JPG" data-lightbox="roma" data-title="Ostia Antica"><img
+                src="./travel_pics/roma_2010/6.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/7.JPG" data-lightbox="roma" data-title="Me in Ostia Antica"><img
+                src="./travel_pics/roma_2010/7.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/8.JPG" data-lightbox="roma" data-title="Nemi lake"><img
+                src="./travel_pics/roma_2010/8.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/9.JPG" data-lightbox="roma" data-title="Villa Gregoriana in Tivoli"><img
+                src="./travel_pics/roma_2010/9.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/10.JPG" data-lightbox="roma" data-title="Me in Villa Gregoriana"><img
+                src="./travel_pics/roma_2010/10.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/11.JPG" data-lightbox="roma" data-title="Hadrian's Villa in Tivoli"><img
+                src="./travel_pics/roma_2010/11.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/12.JPG" data-lightbox="roma" data-title="Hadrian's Villa in Tivoli"><img
+                src="./travel_pics/roma_2010/12.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/13.JPG" data-lightbox="roma" data-title="Hadrian's Villa in Tivoli"><img
+                src="./travel_pics/roma_2010/13.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/14.JPG" data-lightbox="roma" data-title="Hadrian's Villa in Tivoli"><img
+                src="./travel_pics/roma_2010/14.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/15.JPG" data-lightbox="roma" data-title="Hadrian's Villa in Tivoli"><img
+                src="./travel_pics/roma_2010/15.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/16.JPG" data-lightbox="roma" data-title="Ara Pacis"><img
+                src="./travel_pics/roma_2010/16.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/17.JPG" data-lightbox="roma" data-title="Arch of Constantine"><img
+                src="./travel_pics/roma_2010/17.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/18.JPG" data-lightbox="roma"
+              data-title="Michelangelo's Moses in San Pietro in Vincoli"><img src="./travel_pics/roma_2010/18.JPG"
+                alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/19.JPG" data-lightbox="roma" data-title="Gardens of Bomarzo"><img
+                src="./travel_pics/roma_2010/19.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/20.JPG" data-lightbox="roma" data-title="Gardens of Bomarzo"><img
+                src="./travel_pics/roma_2010/20.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/21.JPG" data-lightbox="roma"
+              data-title="Me in the Gardens of Bomarzo"><img src="./travel_pics/roma_2010/21.JPG" alt=""></a></div>
+          <div><a href="./travel_pics/roma_2010/22.JPG" data-lightbox="roma" data-title="Gardens of Bomarzo"><img
+                src="./travel_pics/roma_2010/22.JPG" alt=""></a></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="travels">
       <img class="travel" src="./travel_title/marche.jpg" alt="">
       <p class="intro">
         2020 was a tough year: Covid-19 put to a rest all the travels around the world. However, I managed to still go
