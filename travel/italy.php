@@ -90,6 +90,8 @@
       </div>
     </div>
 
+    <div class="break"></div>
+
     <div class="travels">
       <img class="travel" src="./travel_title/marche.jpg" alt="">
       <p class="intro">
