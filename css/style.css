@@ -82,6 +82,25 @@ main {
   width: 90%;
 }
 
+.message {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  letter-spacing: normal;
+  font-size: 3.5em;
+}
+
+
+
+.contact {
+  display: block;
+  position: fixed;
+  padding: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   font-size: 4em;
@@ -225,6 +244,14 @@ p {
   height: 0;
   border-bottom: hsl(218, 4%, 40%) 2px dashed;
   margin-top: 20px;
+}
+
+footer {
+  width: 100%;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 
 @media(max-width: 992px) {
