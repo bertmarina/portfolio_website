@@ -246,7 +246,7 @@ p {
   margin-top: 20px;
 }
 
-footer {
+.bottom {
   width: 100%;
   align-items: center;
   position: fixed;

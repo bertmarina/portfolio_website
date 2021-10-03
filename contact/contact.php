@@ -27,7 +27,7 @@
         </div>
     </main>
 
-    <?php include '../php templates/footer.php' ?>
+    <?php include '../php templates/footer_bottom.php' ?>
 
     <?php include '../php templates/bootstrap_script.php' ?>
 
