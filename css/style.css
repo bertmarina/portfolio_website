@@ -89,8 +89,6 @@ main {
   font-size: 3.5em;
 }
 
-
-
 .contact {
   display: block;
   position: fixed;
@@ -292,7 +290,14 @@ p {
   .big, .small, .left, .right {
     max-width: 100%;
   }
-  
+
+  .message {
+    font-size: 2em;
+  }
+
+  h5 {
+    font-size: 1em;
+  }
 }
 
 @media(min-width:768px) {
