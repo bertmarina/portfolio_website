@@ -53,6 +53,7 @@
       <a href="./malta.php" class="country"><img class="countrypic" src="/travel/pics-countries/malta.jpg" alt=""></a>
       <a href="./netherlands.php" class="country"><img class="countrypic" src="/travel/pics-countries/netherlands.jpg" alt=""></a>
       <a href="./panama.php" class="country"><img class="countrypic" src="/travel/pics-countries/panama.jpg" alt=""></a>
+      <a href="./portugal.php" class="country"><img class="countrypic" src="/travel/pics-countries/portugal.jpg" alt=""></a>
       <a href="./south_korea.php" class="country"><img class="countrypic" src="/travel/pics-countries/south korea.jpg" alt=""></a>
       <a href="./spain.php" class="country"><img class="countrypic" src="/travel/pics-countries/spain.jpg" alt=""></a>
       <a href="./sri_lanka.php" class="country"><img class="countrypic" src="/travel/pics-countries/sri lanka.jpg" alt=""></a>
